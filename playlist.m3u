@@ -313,6 +313,11 @@ https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Top Gear" group-title="Internasional",Top Gear
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://tvgarden.world/
+https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
