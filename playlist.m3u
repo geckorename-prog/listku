@@ -271,6 +271,10 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-name="AFV" group-title="Hiburan",AFV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FailArmy" group-title="Hiburan",FailArmy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/br
