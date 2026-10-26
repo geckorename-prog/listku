@@ -41,130 +41,223 @@ https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_s
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-name="TVRI ACEH" group-title="TV Nasional",TVRI ACEH
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI AMBON" group-title="TV Nasional",TVRI AMBON
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI BALI" group-title="TV Nasional",TVRI BALI
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI BANGKA BELITUNG" group-title="TV Nasional",TVRI BANGKA BELITUNG
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI BENGKULU" group-title="TV Nasional",TVRI BENGKULU
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI GORONTALO" group-title="TV Nasional",TVRI GORONTALO
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI JAKARTA" group-title="TV Nasional",TVRI JAKARTA
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI JAMBI" group-title="TV Nasional",TVRI JAMBI
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI JAWA TENGAH" group-title="TV Nasional",TVRI JAWA TENGAH
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI JAWA TIMUR" group-title="TV Nasional",TVRI JAWA TIMUR
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN SELATAN" group-title="TV Nasional",TVRI KALIMANTAN SELATAN
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN TENGAH" group-title="TV Nasional",TVRI KALIMANTAN TENGAH
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN TIMUR" group-title="TV Nasional",TVRI KALIMANTAN TIMUR
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
-
 #EXTINF:-1 tvg-name="TVRI NASIONAL" group-title="TV Nasional",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 tvg-name="TVRI NTB" group-title="TV Nasional",TVRI NTB
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI NTT" group-title="TV Nasional",TVRI NTT
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI PAPUA" group-title="TV Nasional",TVRI PAPUA
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI RIAU" group-title="TV Nasional",TVRI RIAU
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI SULAWESI BARAT" group-title="TV Nasional",TVRI SULAWESI BARAT
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI SULAWESI SELATAN" group-title="TV Nasional",TVRI SULAWESI SELATAN
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI SULAWESI TENGGARA" group-title="TV Nasional",TVRI SULAWESI TENGGARA
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI SULAWESI UTARA" group-title="TV Nasional",TVRI SULAWESI UTARA
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-name="TVRI SUMATRA SELATAN" group-title="TV Nasional",TVRI SUMATRA SELATAN
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
 #EXTINF:-1 tvg-name="TVRI WORLD" group-title="TV Nasional",TVRI WORLD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-name="TVRI YOGYAKARTA" group-title="TV Nasional",TVRI YOGYAKARTA
+#EXTINF:-1 tvg-name="TVRI ACEH" group-title="TVRI Daerah",TVRI ACEH
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI AMBON" group-title="TVRI Daerah",TVRI AMBON
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI BALI" group-title="TVRI Daerah",TVRI BALI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI BANGKA BELITUNG" group-title="TVRI Daerah",TVRI BANGKA BELITUNG
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI BENGKULU" group-title="TVRI Daerah",TVRI BENGKULU
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI GORONTALO" group-title="TVRI Daerah",TVRI GORONTALO
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI JAKARTA" group-title="TVRI Daerah",TVRI JAKARTA
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI JAMBI" group-title="TVRI Daerah",TVRI JAMBI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI JAWA TENGAH" group-title="TVRI Daerah",TVRI JAWA TENGAH
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI JAWA TIMUR" group-title="TVRI Daerah",TVRI JAWA TIMUR
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN SELATAN" group-title="TVRI Daerah",TVRI KALIMANTAN SELATAN
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN TENGAH" group-title="TVRI Daerah",TVRI KALIMANTAN TENGAH
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN TIMUR" group-title="TVRI Daerah",TVRI KALIMANTAN TIMUR
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI NTB" group-title="TVRI Daerah",TVRI NTB
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI NTT" group-title="TVRI Daerah",TVRI NTT
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI PAPUA" group-title="TVRI Daerah",TVRI PAPUA
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI RIAU" group-title="TVRI Daerah",TVRI RIAU
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI SULAWESI BARAT" group-title="TVRI Daerah",TVRI SULAWESI BARAT
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI SULAWESI SELATAN" group-title="TVRI Daerah",TVRI SULAWESI SELATAN
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI SULAWESI TENGGARA" group-title="TVRI Daerah",TVRI SULAWESI TENGGARA
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI SULAWESI UTARA" group-title="TVRI Daerah",TVRI SULAWESI UTARA
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI SUMATRA SELATAN" group-title="TVRI Daerah",TVRI SUMATRA SELATAN
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="TVRI YOGYAKARTA" group-title="TVRI Daerah",TVRI YOGYAKARTA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-name="Bandung TV" group-title="TV Daerah",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-name="Banjar TV" group-title="TV Daerah",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Banten TV" group-title="TV Daerah",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
+https://stream.carubantv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="Dhamma TV" group-title="TV Daerah",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-name="Dhoho TV" group-title="TV Daerah",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Duta TV" group-title="TV Daerah",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jogja TV" group-title="TV Daerah",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-name="LINGKAR TV" group-title="TV Daerah",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-name="Madu TV" group-title="TV Daerah",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RCTV" group-title="TV Daerah",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SMTV" group-title="TV Daerah",SMTV
+https://e.siar.us/live/smtv.m3u8
+
+#EXTINF:-1 tvg-name="STARATV BANDUNG" group-title="TV Daerah",STARATV BANDUNG
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV BOJONEGORO" group-title="TV Daerah",STARATV BOJONEGORO
+https://bojonegoro.staratv.id/hls/1/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV CIANJUR" group-title="TV Daerah",STARATV CIANJUR
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV JAKARTA" group-title="TV Daerah",STARATV JAKARTA
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV MAJALENGKA" group-title="TV Daerah",STARATV MAJALENGKA
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV MALANG" group-title="TV Daerah",STARATV MALANG
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="STARATV PARAHYANGAN" group-title="TV Daerah",STARATV PARAHYANGAN
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC KIDS SYDNEY" group-title="Anak",ABC KIDS SYDNEY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/au/pBX0n0NNoCv2oI
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NickOnline" group-title="Anak",NickOnline
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
+https://x1colegal.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-name="TV+PET" group-title="Anak",TV+PET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ADN TV+" group-title="Animasi",ADN TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 tvg-name="Japanim TV" group-title="Animasi",Japanim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/0KHOlcS3CSZQO6
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="Animasi",Mr Bean Animated
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/R6VpE6L98QcSep
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2 HD" group-title="Movie",HBO 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -178,10 +271,10 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BAND Arapuan" group-title="Brasil",BAND Arapuan
+#EXTINF:-1 tvg-name="FailArmy" group-title="Hiburan",FailArmy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/br
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -192,105 +285,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-name="FailArmy" group-title="Hiburan",FailArmy
+#EXTINF:-1 tvg-name="BAND Arapuan" group-title="Internasional",BAND Arapuan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/br
-https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ADN TV+" group-title="Animasi",ADN TV+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
-https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-
-#EXTINF:-1 tvg-name="CN HD" group-title="Lainnya",CN HD
+#EXTINF:-1 tvg-name="CN HD" group-title="Internasional",CN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/live/cn_hd/chunks.m3u8?nimblesessionid=235850726
-
-#EXTINF:-1 tvg-name="Japanim TV" group-title="Animasi",Japanim TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/0KHOlcS3CSZQO6
-https://foxkidstv.be:3369/stream/play.m3u8
-
-#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="Animasi",Mr Bean Animated
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/R6VpE6L98QcSep
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NickOnline" group-title="Anak",NickOnline
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
-https://x1colegal.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="ABC KIDS SYDNEY" group-title="Anak",ABC KIDS SYDNEY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/au/pBX0n0NNoCv2oI
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV+PET" group-title="Anak",TV+PET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bandung TV" group-title="TV Lokal & Daerah",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1 tvg-name="Banjar TV" group-title="TV Lokal & Daerah",Banjar TV
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Banten TV" group-title="TV Lokal & Daerah",Banten TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Caruban TV" group-title="TV Lokal & Daerah",Caruban TV
-https://stream.carubantv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="Dhamma TV" group-title="TV Lokal & Daerah",Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-
-#EXTINF:-1 tvg-name="Dhoho TV" group-title="TV Lokal & Daerah",Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Duta TV" group-title="TV Lokal & Daerah",Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Jogja TV" group-title="TV Lokal & Daerah",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-#EXTINF:-1 tvg-name="LINGKAR TV" group-title="TV Lokal & Daerah",LINGKAR TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-
-#EXTINF:-1 tvg-name="Madu TV" group-title="TV Lokal & Daerah",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RCTV" group-title="TV Lokal & Daerah",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="SMTV" group-title="TV Lokal & Daerah",SMTV
-https://e.siar.us/live/smtv.m3u8
-
-#EXTINF:-1 tvg-name="STARATV BANDUNG" group-title="TV Lokal & Daerah",STARATV BANDUNG
-https://bandung.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV BOJONEGORO" group-title="TV Lokal & Daerah",STARATV BOJONEGORO
-https://bojonegoro.staratv.id/hls/1/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV CIANJUR" group-title="TV Lokal & Daerah",STARATV CIANJUR
-https://cianjur.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV JAKARTA" group-title="TV Lokal & Daerah",STARATV JAKARTA
-https://jakarta.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV MAJALENGKA" group-title="TV Lokal & Daerah",STARATV MAJALENGKA
-https://stream.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV MALANG" group-title="TV Lokal & Daerah",STARATV MALANG
-https://malang.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="STARATV PARAHYANGAN" group-title="TV Lokal & Daerah",STARATV PARAHYANGAN
-https://parahyangan.staratv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Lokal & Daerah",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
