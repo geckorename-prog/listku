@@ -254,11 +254,6 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/0KHOlcS3CSZQO6
 https://foxkidstv.be:3369/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="Animasi",Mr Bean Animated
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/R6VpE6L98QcSep
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-
 #EXTINF:-1 tvg-name="HBO 2 HD" group-title="Movie",HBO 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
@@ -306,10 +301,6 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 10" group-title="Internasional",Channel 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
@@ -325,10 +316,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1 tvg-name="Tooncast" group-title="Animasi",Tooncast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Animasi",Xtrema Cartoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
