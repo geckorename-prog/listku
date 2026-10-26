@@ -275,11 +275,6 @@ http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FailArmy" group-title="Hiburan",FailArmy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/br
-https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
