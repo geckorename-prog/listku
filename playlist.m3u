@@ -310,3 +310,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-name="Arirang Radio K-Pop" group-title="Hiburan",Arirang Radio K-Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" group-title="Animasi",Tooncast
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
