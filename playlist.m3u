@@ -302,6 +302,10 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
 
+#EXTINF:-1 tvg-name="KTV" group-title="Internasional",KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
