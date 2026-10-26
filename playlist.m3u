@@ -306,6 +306,10 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Channel 10" group-title="Internasional",Channel 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
