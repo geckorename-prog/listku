@@ -217,6 +217,11 @@ https://foxkidstv.be:3369/stream/play.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/R6VpE6L98QcSep
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 tvg-name="NickOnline" group-title="Anak",NickOnline
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
+https://x1colegal.com/hls/0/stream.m3u8
+
 #EXTINF:-1 tvg-name="ABC KIDS SYDNEY" group-title="Anak",ABC KIDS SYDNEY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/au/pBX0n0NNoCv2oI
