@@ -301,6 +301,10 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CMAC 3" group-title="Internasional",CMAC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
+
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
