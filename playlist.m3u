@@ -314,3 +314,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1 tvg-name="Tooncast" group-title="Animasi",Tooncast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
