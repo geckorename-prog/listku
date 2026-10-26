@@ -187,8 +187,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Duta TV" group-title="TV Daerah",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Jogja TV" group-title="TV Daerah",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="LINGKAR TV" group-title="TV Daerah",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
