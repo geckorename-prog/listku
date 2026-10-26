@@ -240,6 +240,11 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
 https://x1colegal.com/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-name="Spacetoon Türkiye" group-title="Anak",Spacetoon Türkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/zBlO9YDZ68nfoc
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/a_1_0.m3u8?pkg_hm=h7qefeiwfbjn1.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=video
+
 #EXTINF:-1 tvg-name="TV+PET" group-title="Anak",TV+PET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
