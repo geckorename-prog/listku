@@ -202,6 +202,11 @@ https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
+#EXTINF:-1 tvg-name="CN HD" group-title="Lainnya",CN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/live/cn_hd/chunks.m3u8?nimblesessionid=235850726
+
 #EXTINF:-1 tvg-name="ABC KIDS SYDNEY" group-title="Anak",ABC KIDS SYDNEY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/au/pBX0n0NNoCv2oI
