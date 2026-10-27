@@ -233,10 +233,6 @@ https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movie",Bhojpuri Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-name="MAX Anime" group-title="Animasi",MAX Anime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
