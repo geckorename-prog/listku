@@ -212,6 +212,10 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
