@@ -400,10 +400,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS Kids" group-title="Anak",EBS Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
 #EXTINF:-1 tvg-name="City TV" group-title="Music",City TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
@@ -475,10 +471,6 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Lego Channel" group-title="Anak",Lego Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dh18i7whff86v.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-name="Moonbug Kids" group-title="Anak",Moonbug Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mr Bean Live Action" group-title="Anak",Mr Bean Live Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
