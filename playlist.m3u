@@ -303,8 +303,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal Gov" group-title="Berita Internasional",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="In the Kitchen" group-title="Lifestyle",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-name="bon appetit" group-title="Lifestyle",bon appetit
@@ -330,7 +328,6 @@ https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-
 #EXTINF:-1 tvg-name="City TV" group-title="Music",City TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
@@ -342,3 +339,7 @@ https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Hitradio O3" group-title="Music",Hitradio O3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+
+#EXTINF:-1 tvg-name="Kiss Kiss TV" group-title="Music",Kiss Kiss TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
