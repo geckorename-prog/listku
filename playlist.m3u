@@ -382,3 +382,7 @@ https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Anak",Kuriakos Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Smurf TV" group-title="Anak",Smurf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
