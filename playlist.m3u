@@ -193,6 +193,10 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
