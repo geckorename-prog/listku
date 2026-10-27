@@ -551,3 +551,7 @@ https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playl
 #EXTINF:-1 tvg-name="ABC 10 Duluth MN" group-title="World News",ABC 10 Duluth MN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC 10 San Diego CA" group-title="World News",ABC 10 San Diego CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
