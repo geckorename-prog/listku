@@ -187,8 +187,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Duta TV" group-title="TV Daerah",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-name="Madu TV" group-title="TV Daerah",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
@@ -221,7 +219,6 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -258,10 +255,6 @@ http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AFV" group-title="Hiburan",AFV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -270,7 +263,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
 
 #EXTINF:-1 tvg-name="AccessVision Channel 17" group-title="Internasional",AccessVision Channel 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -317,7 +309,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTINF:-1 tvg-name="Camera Smile TV" group-title="Hiburan",Camera Smile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-
 
 #EXTINF:-1 tvg-name="Arirang Radio K-Pop" group-title="Hiburan",Arirang Radio K-Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
