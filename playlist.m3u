@@ -228,63 +228,123 @@ https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movie",Bhojpuri Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="CINDIE TV" group-title="Movie",CINDIE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-name="TVRI SPORT" group-title="Olahraga",TVRI SPORT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-name="Cine Nanar" group-title="Movie",Cine Nanar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ATXN1" group-title="Internasional",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
+
+#EXTINF:-1 tvg-name="Ebony TV by Lionsgate" group-title="Movie",Ebony TV by Lionsgate
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KTV" group-title="Internasional",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Emotion L" group-title="Movie",Emotion L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CMAC 3" group-title="Internasional",CMAC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-name="Epic Bhojpuri Digital" group-title="Movie",Epic Bhojpuri Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cypress Channel 36" group-title="Internasional",Cypress Channel 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MovieSphere UK" group-title="Movie",MovieSphere UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="City TV Channel 3/41" group-title="Internasional",City TV Channel 3/41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" group-title="Movie",MovieSphere by Lionsgate
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Justicia TV" group-title="Internasional",Justicia TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tvgarden.world/
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MyTime Movie Network BR" group-title="Movie",MyTime Movie Network BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="BX Culture" group-title="Culture",BX Culture
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-name="NOST" group-title="Movie",NOST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BX Arts" group-title="Culture",BX Arts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Movie",OuterSphere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Discovering China" group-title="Culture",Discovering China
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ScreamIN" group-title="Movie",ScreamIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Flowers TV USA" group-title="Culture",Flowers TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Shubh Cinema TV" group-title="Movie",Shubh Cinema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
 #EXTINF:-1 tvg-name="FNX" group-title="Culture",FNX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fnx.lls.pbs.org/index.m3u8
 
+#EXTINF:-1 tvg-name="South Station" group-title="Movie",South Station
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Fox Soul" group-title="Culture",Fox Soul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
+
+#EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movie",WFXT-DT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hmong Star TV" group-title="Culture",Hmong Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
