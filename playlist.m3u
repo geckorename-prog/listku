@@ -220,6 +220,10 @@ https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 
+#EXTINF:-1 tvg-name="GREAT! movies UK" group-title="Movie",GREAT! movies UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
