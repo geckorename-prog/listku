@@ -253,11 +253,11 @@ https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BX Culture" group-title="Internasional",BX Culture
+#EXTINF:-1 tvg-name="BX Culture" group-title="Culture",BX Culture
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 
-#EXTINF:-1 tvg-name="BX Arts" group-title="Internasional",BX Arts
+#EXTINF:-1 tvg-name="BX Arts" group-title="Culture",BX Arts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 
