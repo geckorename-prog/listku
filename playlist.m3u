@@ -35,11 +35,11 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 
 #EXTINF:-1 tvg-name="TRANS 7" group-title="TV Nasional",TRANS 7
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+https://live.cnnindonesia.com/trans7/smil:trans7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRANS TV" group-title="TV Nasional",TRANS TV
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVRI NASIONAL" group-title="TV Nasional",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -353,8 +353,6 @@ https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Hungry" group-title="Lifestyle",Hungry
 https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Kuhnya" group-title="Lifestyle",Kuhnya
-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kulinar TV" group-title="Lifestyle",Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-name="Mad Dog and Merrill" group-title="Lifestyle",Mad Dog and Merrill
