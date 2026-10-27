@@ -224,10 +224,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-name="AccessVision Channel 17" group-title="Internasional",AccessVision Channel 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ATXN1" group-title="Internasional",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
@@ -264,6 +260,10 @@ https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-name="Discovering China" group-title="Culture",Discovering China
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Flowers TV USA" group-title="Culture",Flowers TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Top Gear" group-title="Otomotif",Top Gear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
