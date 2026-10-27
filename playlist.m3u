@@ -189,6 +189,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
+#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animasi",FilmRise Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
