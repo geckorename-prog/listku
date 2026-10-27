@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:-1 tvg-name="BN CHANNEL" group-title="TV Nasional",BN CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
 #EXTINF:-1 tvg-name="BTV" group-title="TV Nasional",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
@@ -16,10 +12,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-
-#EXTINF:-1 tvg-name="INDONESIANA TV" group-title="TV Nasional",INDONESIANA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-name="KOMPAS TV" group-title="TV Nasional",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -164,9 +156,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="Dhamma TV" group-title="TV Daerah",Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-
 #EXTINF:-1 tvg-name="STARATV BANDUNG" group-title="TV Daerah",STARATV BANDUNG
 https://bandung.staratv.id/hls/0/stream.m3u8
 
@@ -199,18 +188,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-
-#EXTINF:-1 tvg-name="HBO 2 HD" group-title="Movie",HBO 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-name="HBO 3 HD" group-title="Movie",HBO 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-name="HBO HD" group-title="Movie",HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -288,11 +265,6 @@ https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" group-title="Movie",MovieSphere by Lionsgate
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Justicia TV" group-title="Internasional",Justicia TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://tvgarden.world/
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MyTime Movie Network BR" group-title="Movie",MyTime Movie Network BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -389,10 +361,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
 #EXTINF:-1 tvg-name="Gusto TV" group-title="Lifestyle",Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Hungry" group-title="Lifestyle",Hungry
-https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="BabyFirst US" group-title="Anak",BabyFirst US
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-name="EBS Kids" group-title="Anak",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
@@ -403,10 +371,6 @@ https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Kids" group-title="Anak",EBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Afarin Baxcha" group-title="Anak",Afarin Baxcha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="City TV" group-title="Music",City TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
