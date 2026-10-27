@@ -274,6 +274,10 @@ https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-name="KTV 2" group-title="Culture",KTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="Top Gear" group-title="Otomotif",Top Gear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tvgarden.world/
