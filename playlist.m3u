@@ -367,10 +367,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-name="Detskiy" group-title="Anak",Detskiy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="ducktv" group-title="Anak",ducktv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
@@ -382,3 +378,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="HappyKids" group-title="Anak",HappyKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+
+#EXTINF:-1 tvg-name="Kuriakos Kids" group-title="Anak",Kuriakos Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
