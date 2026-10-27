@@ -372,3 +372,5 @@ https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 #EXTINF:-1 tvg-name="TV5MONDE Chefs" group-title="Lifestyle",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-name="BabyFirst US" group-title="Anak",BabyFirst US
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
