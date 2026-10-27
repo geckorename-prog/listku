@@ -314,9 +314,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Animasi",Xtrema Cartoons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Gov" group-title="Berita Internasional",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="Asian Food Network Vietnam" group-title="Lifestyle",Asian Food Network Vietnam
@@ -377,3 +374,7 @@ https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ducktv" group-title="Anak",ducktv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Kids" group-title="Anak",EBS Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
