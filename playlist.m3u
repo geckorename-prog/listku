@@ -376,3 +376,5 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-name="BeJoy.kids" group-title="Anak",BeJoy.kids
 https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Anak",Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
