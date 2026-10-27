@@ -535,3 +535,7 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 #EXTINF:-1 tvg-name="WOW Kidz Telugu" group-title="Anak",WOW Kidz Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-name="ABC 6 Austin TX" group-title="World News",ABC 6 Austin TX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
