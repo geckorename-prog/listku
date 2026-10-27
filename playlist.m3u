@@ -158,9 +158,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="Bandung TV" group-title="TV Daerah",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
 #EXTINF:-1 tvg-name="Banten TV" group-title="TV Daerah",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
@@ -264,6 +261,10 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-name="Flowers TV USA" group-title="Culture",Flowers TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FNX" group-title="Culture",FNX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fnx.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 tvg-name="Top Gear" group-title="Otomotif",Top Gear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
