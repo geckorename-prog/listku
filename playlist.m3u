@@ -555,3 +555,7 @@ https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playl
 #EXTINF:-1 tvg-name="ABC 25 News Central Texas" group-title="World News",ABC 25 News Central Texas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Business" tvg-country="AE" tvg-language="ara",Al Arabiya Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
