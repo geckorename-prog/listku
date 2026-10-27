@@ -404,7 +404,6 @@ https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
-
 #EXTINF:-1 tvg-name="Clubbing TV UK" group-title="Music",Clubbing TV UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
@@ -529,10 +528,6 @@ https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC 9 Manchester NH" group-title="World News",ABC 9 Manchester NH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ABC 10 Duluth MN" group-title="World News",ABC 10 Duluth MN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
@@ -559,4 +554,8 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC UK" group-title="Business" tvg-country="UK" tvg-language="eng",CNBC UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-e" group-title="Business" tvg-country="TR" tvg-language="tur",CNBC-e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
