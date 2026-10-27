@@ -188,8 +188,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="LINGKAR TV" group-title="TV Daerah",LINGKAR TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-name="Madu TV" group-title="TV Daerah",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
@@ -224,10 +222,6 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC KIDS SYDNEY" group-title="Anak",ABC KIDS SYDNEY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/au/pBX0n0NNoCv2oI
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -277,10 +271,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-name="BAND Arapuan" group-title="Internasional",BAND Arapuan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvgarden.world/tv/br
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AccessVision Channel 17" group-title="Internasional",AccessVision Channel 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -328,9 +318,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
-#EXTINF:-1 tvg-name="Afrobeat TV Entertainment" group-title="Hiburan",Afrobeat TV Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:-1 tvg-name="Arirang Radio K-Pop" group-title="Hiburan",Arirang Radio K-Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
