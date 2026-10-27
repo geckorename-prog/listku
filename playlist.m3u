@@ -556,3 +556,7 @@ https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Business" tvg-country="AE" tvg-language="ara",Al Arabiya Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC UK" group-title="Business" tvg-country="UK" tvg-language="eng",CNBC UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
