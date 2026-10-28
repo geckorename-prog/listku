@@ -409,6 +409,10 @@ https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
+#EXTINF:-1 tvg-name="FTV" group-title="Music",FTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://stream8.cinerama.uz/1018/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Hitradio O3" group-title="Music",Hitradio O3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
