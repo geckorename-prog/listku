@@ -150,9 +150,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="Banten TV" group-title="TV Daerah",Banten TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
 
@@ -289,10 +286,6 @@ https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playli
 #EXTINF:-1 tvg-name="MovieSphere UK" group-title="Movie",MovieSphere UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="City TV Channel 3/41" group-title="Internasional",City TV Channel 3/41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" group-title="Movie",MovieSphere by Lionsgate
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
