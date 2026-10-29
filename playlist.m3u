@@ -1308,3 +1308,39 @@ https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
 #EXTINF:-1 tvg-name="Iran International" group-title="World News",Iran International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+
+#EXTINF:-1 tvg-name="Tagesschau24" group-title="World News",Tagesschau24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="HR Fernsehen" group-title="Internasional",HR Fernsehen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+
+#EXTINF:-1 tvg-name="La 1" group-title="Internasional",La 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="La 2" group-title="Dokumenter",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="RTVE 24h" group-title="World News",RTVE 24h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="NHK World-Japan (Osaka)" group-title="Internasional",NHK World-Japan (Osaka)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Drybar Comedy" group-title="Komedi",Drybar Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FOX Live Now" group-title="World News",FOX Live Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Newsmax TV" group-title="World News",Newsmax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
