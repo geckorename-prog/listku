@@ -736,17 +736,13 @@ https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT Cocuk" group-title="Anak",TRT Cocuk
+#EXTINF:-1 tvg-name="ETV 2" group-title="Anak",ETV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+https://sb.err.ee/live/etv2.m3u8
 
 #EXTINF:-1 tvg-name="TRT Diyanet Cocuk" group-title="Anak",TRT Diyanet Cocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="ETV 2" group-title="Anak",ETV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://sb.err.ee/live/etv2.m3u8
 
 #EXTINF:-1 tvg-name="Minika Cocuk" group-title="Anak",Minika Cocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
