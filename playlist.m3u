@@ -150,6 +150,10 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
+#EXTINF:-1 tvg-name="TVRI JAWA BARAT" group-title="TVRI Daerah",TVRI JAWA BARAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
 #EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
 
@@ -176,6 +180,14 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ahsan TV" group-title="TV Daerah",Ahsan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Daerah",Angel TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1216,6 +1228,10 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-name="UGTV" group-title="Education",UGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
 #EXTINF:-1 tvg-name="Euronews English" group-title="World News",Euronews English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
@@ -1300,6 +1316,10 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 tvg-name="Canal Gov" group-title="TV Nasional",Canal Gov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="Metro TV" group-title="TV Nasional",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MTA3 Al-Arabia" group-title="Internasional",MTA3 Al-Arabia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
