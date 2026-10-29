@@ -396,6 +396,106 @@ https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="AsianCrush" group-title="Hiburan",AsianCrush
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Buzzr" group-title="Hiburan",Buzzr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Comet" group-title="Hiburan",Comet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-name="Dangal 2" group-title="Hiburan",Dangal 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD National" group-title="Hiburan",DD National
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-name="Estrella TV" group-title="Hiburan",Estrella TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Entertainment Tonight" group-title="Hiburan",Entertainment Tonight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
+#EXTINF:-1 tvg-name="Estrella Games" group-title="Hiburan",Estrella Games
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Game Show Network East" group-title="Hiburan",Game Show Network East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hi-YAH!" group-title="Hiburan",Hi-YAH!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K-Content by CJ ENM" group-title="Hiburan",K-Content by CJ ENM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lone Star" group-title="Hiburan",Lone Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mystery TV UK" group-title="Hiburan",Mystery TV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBCLX" group-title="Hiburan",NBCLX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective BR" group-title="Hiburan",The Pet Collective BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wipeout Xtra" group-title="Hiburan",Wipeout Xtra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Nest (Sinclair)" group-title="Hiburan",The Nest (Sinclair)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-name="WDR 1 Live" group-title="Hiburan",WDR 1 Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK World Premium" group-title="Hiburan",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-name="RMC Life" group-title="Hiburan",RMC Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-name="Sun TV" group-title="Hiburan",Sun TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-name="Star Vijay UK" group-title="Hiburan",Star Vijay UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PTC Punjabi" group-title="Hiburan",PTC Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-name="PTC Punjabi Gold" group-title="Hiburan",PTC Punjabi Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Vacation Channel" group-title="Hiburan",Vacation Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+
 #EXTINF:-1 tvg-name="In the Kitchen" group-title="Lifestyle",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-name="bon appetit" group-title="Lifestyle",bon appetit
