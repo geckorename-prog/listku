@@ -335,7 +335,6 @@ https://fnx.lls.pbs.org/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/playlist.m3u8
 
-
 #EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movie",WFXT-DT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
@@ -518,6 +517,10 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
+#EXTINF:-1 tvg-name="PBS Kids" group-title="Anak",PBS Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
 #EXTINF:-1 tvg-name="ABC 6 Austin TX" group-title="World News",ABC 6 Austin TX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
@@ -557,3 +560,130 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
+#EXTINF:-1 tvg-name="BATV Educational" group-title="Education",BATV Educational
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Campus TV" group-title="Education",Campus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Educacao" group-title="Education",Canal Educacao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="Classic Arts Showcase" group-title="Education",Classic Arts Showcase
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-name="Cloudflare TV" group-title="Education",Cloudflare TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="CMAC 2" group-title="Education",CMAC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-name="Create" group-title="Education",Create
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="DerryTV 23" group-title="Education",DerryTV 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Detroit Channel 22" group-title="Education",Detroit Channel 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-name="EBS 1TV" group-title="Education",EBS 1TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS 2TV" group-title="Education",EBS 2TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS English" group-title="Education",EBS English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Plus 1" group-title="Education",EBS Plus 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EBS Plus 2" group-title="Education",EBS Plus 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HCTV Educational" group-title="Education",HCTV Educational
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-name="KQED-DT2" group-title="Education",KQED-DT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+
+#EXTINF:-1 tvg-name="KVIE-DT2" group-title="Education",KVIE-DT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+
+#EXTINF:-1 tvg-name="Leominster TV Educational" group-title="Education",Leominster TV Educational
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Midpen Media Channel 28" group-title="Education",Midpen Media Channel 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Monroe Community Media" group-title="Education",Monroe Community Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-name="Nashua ETV" group-title="Education",Nashua ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Natick Education Channel" group-title="Education",Natick Education Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="St Lucie Public Schools" group-title="Education",St Lucie Public Schools
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+
+#EXTINF:-1 tvg-name="TV Maya" group-title="Education",TV Maya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVK 2" group-title="Education",TVK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TUTV" group-title="Education",TUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UAA TV" group-title="Education",UAA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UCTV" group-title="Education",UCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WEDQ-DT4" group-title="Education",WEDQ-DT4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+
+#EXTINF:-1 tvg-name="WGTV-DT3" group-title="Education",WGTV-DT3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+
+#EXTINF:-1 tvg-name="WildEarth" group-title="Education",WildEarth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://wildearth-xumo.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://world.lls.pbs.org/index.m3u8
