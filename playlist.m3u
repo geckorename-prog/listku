@@ -1276,10 +1276,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
-#EXTINF:-1 tvg-name="Thai PBS" group-title="TV Nasional",Thai PBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="NHK World-Japan" group-title="Internasional",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -1292,7 +1288,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-name="Thai PBS (cdn)" group-title="TV Nasional",Thai PBS (cdn)
+#EXTINF:-1 tvg-name="Thai PBS" group-title="TV Nasional",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
@@ -1300,3 +1296,15 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal Gov" group-title="TV Nasional",Canal Gov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="MTA3 Al-Arabia" group-title="Internasional",MTA3 Al-Arabia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iran International" group-title="World News",Iran International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
