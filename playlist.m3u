@@ -723,3 +723,7 @@ https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playl
 #EXTINF:-1 tvg-name="SNL Vault" group-title="Komedi",SNL Vault
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+
+#EXTINF:-1 tvg-name="Cartoon Network HD+ (India)" group-title="Animasi",Cartoon Network HD+ (India)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
