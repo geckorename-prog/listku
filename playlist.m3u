@@ -871,3 +871,83 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Dokumenter",Al Arabiya Programs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet India" group-title="Dokumenter",Animal Planet India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth US" group-title="Dokumenter",BBC Earth US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Documentary" group-title="Dokumenter",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="CNA Originals" group-title="Dokumenter",CNA Originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Court TV" group-title="Dokumenter",Court TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-name="Dateline 24/7" group-title="Dokumenter",Dateline 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-name="Deadly Women UK" group-title="Dokumenter",Deadly Women UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+
+#EXTINF:-1 tvg-name="DocuBay TV" group-title="Dokumenter",DocuBay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Investigation Discovery India" group-title="Dokumenter",Investigation Discovery India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Get.factual UK" group-title="Dokumenter",Get.factual UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+
+#EXTINF:-1 tvg-name="History Hit" group-title="Dokumenter",History Hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Into Crime" group-title="Dokumenter",Into Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Love Pets" group-title="Dokumenter",Love Pets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic LATAM" group-title="Dokumenter",National Geographic LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" group-title="Dokumenter",Nature Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RT Documentary English" group-title="Dokumenter",RT Documentary English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Dokumenter",Smotrim 100% Fakty
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-name="Total Crime CA" group-title="Dokumenter",Total Crime CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Dokumenter",Wedo Big Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
