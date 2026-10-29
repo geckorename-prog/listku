@@ -687,3 +687,39 @@ https://wildearth-xumo.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="AFV" group-title="Komedi",AFV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Anger Management Channel" group-title="Komedi",Anger Management Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central Latin America" group-title="Komedi",Comedy Central Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+
+#EXTINF:-1 tvg-name="FailArmy" group-title="Komedi",FailArmy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Just for Laughs Gags" group-title="Komedi",Just for Laughs Gags
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MST3K" group-title="Komedi",MST3K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Chat Show Channel" group-title="Komedi",The Chat Show Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Conners" group-title="Komedi",The Conners
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SNL Vault" group-title="Komedi",SNL Vault
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
