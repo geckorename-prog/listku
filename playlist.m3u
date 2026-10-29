@@ -192,9 +192,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
-#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animasi",FilmRise Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
 
 #EXTINF:-1 tvg-name="Spacetoon Arabic" group-title="Animasi",Spacetoon Arabic
@@ -787,9 +784,6 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
 #EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Dokumenter",Al Arabiya Programs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -827,9 +821,6 @@ https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 
-#EXTINF:-1 tvg-name="Nature Time" group-title="Dokumenter",Nature Time
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Dokumenter",Smotrim 100% Fakty
@@ -949,9 +940,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="World News",Euronews Russian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Greek" group-title="World News",Euronews Greek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
