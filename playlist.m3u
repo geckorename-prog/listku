@@ -727,3 +727,35 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-name="Cartoon Network HD+ (India)" group-title="Animasi",Cartoon Network HD+ (India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon Latin America" group-title="Anak",Nickelodeon Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+
+#EXTINF:-1 tvg-name="Radost Moya" group-title="Anak",Radost Moya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT Cocuk" group-title="Anak",TRT Cocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Diyanet Cocuk" group-title="Anak",TRT Diyanet Cocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="ETV 2" group-title="Anak",ETV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-name="Minika Cocuk" group-title="Anak",Minika Cocuk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-name="Minika Go" group-title="Anak",Minika Go
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-name="Afarin TV" group-title="Anak",Afarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
