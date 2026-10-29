@@ -1199,3 +1199,79 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" group-title="TV Nasional",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Avaz" group-title="Internasional",TRT Avaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Arabi" group-title="Internasional",TRT Arabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Euronews English" group-title="World News",Euronews English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews French" group-title="World News",Euronews French
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews German" group-title="World News",Euronews German
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="World News",Euronews Spanish
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Italian" group-title="World News",Euronews Italian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Portuguese" group-title="World News",Euronews Portuguese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="World News",Euronews Russian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Greek" group-title="World News",Euronews Greek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Hungarian" group-title="World News",Euronews Hungarian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+
+#EXTINF:-1 tvg-name="Africanews English" group-title="World News",Africanews English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+
+#EXTINF:-1 tvg-name="Africanews French" group-title="World News",Africanews French
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-name="DW English" group-title="World News",DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Arabic" group-title="World News",DW Arabic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Espanol" group-title="World News",DW Espanol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Russian" group-title="World News",DW Russian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
