@@ -181,6 +181,14 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Ahsan TV" group-title="TV Daerah",Ahsan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Daerah",Angel TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
@@ -235,6 +243,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="eSports Max TV" group-title="Animasi",eSports Max TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animasi",FilmRise Anime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CINDIE TV" group-title="Movie",CINDIE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -315,6 +331,10 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture",Bem Mais TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FNX" group-title="Culture",FNX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fnx.lls.pbs.org/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Fun Roads" group-title="Otomotif",Fun Roads
@@ -399,6 +419,26 @@ https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-name="RMC Life" group-title="Hiburan",RMC Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-name="Comet" group-title="Hiburan",Comet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-name="Estrella TV" group-title="Hiburan",Estrella TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hi-YAH!" group-title="Hiburan",Hi-YAH!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Vijay UK" group-title="Hiburan",Star Vijay UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vacation Channel" group-title="Hiburan",Vacation Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 
 
 
@@ -672,6 +712,14 @@ https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
 
 
 
@@ -712,6 +760,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-name="Minika Go" group-title="Anak",Minika Go
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-name="Radost Moya" group-title="Anak",Radost Moya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Afarin TV" group-title="Anak",Afarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="Allo Cine" group-title="Movie",Allo Cine
@@ -762,6 +818,14 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
+#EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movie",WFXT-DT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Outdoor America" group-title="Outdoor",Outdoor America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
@@ -783,6 +847,10 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="WaterBear" group-title="Outdoor",WaterBear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
 
 #EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Dokumenter",Al Arabiya Programs
@@ -831,6 +899,18 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Dokumenter",Wedo Big Stories
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="History Hit" group-title="Dokumenter",History Hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" group-title="Dokumenter",Nature Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RT Documentary English" group-title="Dokumenter",RT Documentary English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Qwest TV" group-title="Music",Qwest TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -895,6 +975,10 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 #EXTINF:-1 tvg-name="LRT Opus" group-title="Music",LRT Opus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream-live.lrt.lt/opus/master.m3u8
+
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
 
 
@@ -1032,3 +1116,11 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" group-title="World News",Newsmax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-name="ABC 12 Milwaukee WI" group-title="World News",ABC 12 Milwaukee WI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="World News",Euronews Russian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
