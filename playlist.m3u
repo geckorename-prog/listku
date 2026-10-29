@@ -242,9 +242,6 @@ https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MAX Anime" group-title="Animasi",MAX Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Olahraga",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -303,9 +300,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BX Arts" group-title="Culture",BX Arts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 
 
 
@@ -486,9 +480,6 @@ https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
 
-#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Anak",Banijay Mr Bean Animé
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kiss Kiss TV" group-title="Music",Kiss Kiss TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -535,9 +526,6 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-name="Mr Bean Live Action" group-title="Anak",Mr Bean Live Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
 
@@ -578,9 +566,6 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ABC 10 Duluth MN" group-title="World News",ABC 10 Duluth MN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="ABC 12 Milwaukee WI" group-title="World News",ABC 12 Milwaukee WI
@@ -705,9 +690,6 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="St Lucie Public Schools" group-title="Education",St Lucie Public Schools
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 
 #EXTINF:-1 tvg-name="TV Maya" group-title="Education",TV Maya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -866,9 +848,6 @@ https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-name="Dateline 24/7" group-title="Dokumenter",Dateline 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
 
 #EXTINF:-1 tvg-name="Deadly Women UK" group-title="Dokumenter",Deadly Women UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -940,9 +919,6 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
-#EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 
 
@@ -974,42 +950,21 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT Muzik" group-title="Music",TRT Muzik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="LRT Klasika" group-title="Music",LRT Klasika
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream-live.lrt.lt/klasika/master.m3u8
 
 #EXTINF:-1 tvg-name="LRT Opus" group-title="Music",LRT Opus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream-live.lrt.lt/opus/master.m3u8
 
-#EXTINF:-1 tvg-name="Klara" group-title="Music",Klara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
-
-#EXTINF:-1 tvg-name="MNM" group-title="Music",MNM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
-
-#EXTINF:-1 tvg-name="StuBru" group-title="Music",StuBru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-name="Stingray Classic Rock" group-title="Music",Stingray Classic Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Stingray Naturescape" group-title="Music",Stingray Naturescape
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
