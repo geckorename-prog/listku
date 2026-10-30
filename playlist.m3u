@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
-
 #EXTINF:-1 tvg-name="BERITA SATU" group-title="TV Nasional",BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
@@ -304,10 +303,6 @@ https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-name="eSports Max TV" group-title="Animasi",eSports Max TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animasi",FilmRise Anime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
@@ -412,10 +407,6 @@ https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="WBS" group-title="Culture",WBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://wbstv.kr/live/livestream.m3u8
-
-#EXTINF:-1 tvg-name="STB Sangsaeng TV" group-title="Culture",STB Sangsaeng TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://606d65214d80f.streamlock.net/live-stb/_definst_/23099f84052dd81c1c2d4f7286670b4d7ad558a0138dab704fcb0008932cf094/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fun Roads" group-title="Otomotif",Fun Roads
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -767,10 +758,6 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://world.lls.pbs.org/index.m3u8
-
-#EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="OUN (KNOU)" group-title="Education",OUN (KNOU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
