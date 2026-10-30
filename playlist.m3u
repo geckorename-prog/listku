@@ -389,6 +389,34 @@ https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fnx.lls.pbs.org/index.m3u8
 
+#EXTINF:-1 tvg-name="BBS" group-title="Culture",BBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BTN" group-title="Culture",BTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBS TV" group-title="Culture",CBS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGN TV Chinese" group-title="Culture",CGN TV Chinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#EXTINF:-1 tvg-name="FGTV" group-title="Culture",FGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WBS" group-title="Culture",WBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://wbstv.kr/live/livestream.m3u8
+
+#EXTINF:-1 tvg-name="STB Sangsaeng TV" group-title="Culture",STB Sangsaeng TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://606d65214d80f.streamlock.net/live-stb/_definst_/23099f84052dd81c1c2d4f7286670b4d7ad558a0138dab704fcb0008932cf094/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Fun Roads" group-title="Otomotif",Fun Roads
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
@@ -492,6 +520,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
 #EXTINF:-1 tvg-name="Gusto TV" group-title="Lifestyle",Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBS Korea Agriculture TV" group-title="Lifestyle",NBS Korea Agriculture TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EBS Kids" group-title="Anak",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
@@ -739,6 +771,10 @@ https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Ortaokul" group-title="Education",TRT EBA Ortaokul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="OUN (KNOU)" group-title="Education",OUN (KNOU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AFV" group-title="Komedi",AFV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1082,6 +1118,14 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 #EXTINF:-1 tvg-name="La 1" group-title="Internasional",La 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Arirang World" group-title="Internasional",Arirang World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="National Assembly TV Korea" group-title="Internasional",National Assembly TV Korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://w-assembly.hscdn.com/assembly/natv_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 24 Horas" group-title="World News",Canal 24 Horas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
