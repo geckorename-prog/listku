@@ -1047,11 +1047,6 @@ https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nation TV" group-title="World News",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-
 #EXTINF:-1 tvg-name="Canal Gov" group-title="TV Nasional",Canal Gov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -1137,4 +1132,3 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Sky News International" group-title="World News",Sky News International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
-
