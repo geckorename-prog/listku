@@ -1014,13 +1014,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
-#EXTINF:-1 tvg-name="Canal 24 Horas" group-title="World News",Canal 24 Horas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
 #EXTINF:-1 tvg-name="Canal 24 Horas Catalunya" group-title="World News",Canal 24 Horas Catalunya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main.m3u8
 
 #EXTINF:-1 tvg-name="Thai PBS" group-title="TV Nasional",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1085,7 +1081,7 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-name="RTVE 24h" group-title="World News",RTVE 24h
+#EXTINF:-1 tvg-name="Canal 24 Horas" group-title="World News",Canal 24 Horas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
