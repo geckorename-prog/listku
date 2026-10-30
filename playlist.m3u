@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+
 #EXTINF:-1 tvg-name="BERITA SATU" group-title="TV Nasional",BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
