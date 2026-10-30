@@ -1133,3 +1133,8 @@ https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playl
 #EXTINF:-1 tvg-name="Euronews Russian" group-title="World News",Euronews Russian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky News International" group-title="World News",Sky News International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+
