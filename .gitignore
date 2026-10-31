@@ -1,0 +1,38 @@
+# log & hasil scan (regenerable)
+*.log
+health-*.log
+health_*.log
+recheck_*.log
+*_check.log
+*_scan.log
+*.src
+
+# backup playlist
+playlist.backup*.m3u
+playlist.m3u.bak
+playlist.pre-*.m3u
+playlist.remote*.m3u
+*.bak
+
+# data kandidat / scratch
+sports.json
+sports_*.json
+cand_*.json
+music*.json
+music.gz
+kr_*.m3u
+remote_*.m3u
+dead*.txt
+flaky*
+ratio_*
+dup_scan*
+verify_*.log
+final_check.log
+pulih.txt
+nation_check.txt
+segment_fingerprints.json
+health_report.json
+health-report-*.md
+
+# python
+__pycache__/

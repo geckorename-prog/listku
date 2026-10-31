@@ -85,6 +85,13 @@ def first_noncomment(body):
             return l
     return None
 
+def last_noncomment(body):
+    for l in reversed(body.decode(errors="replace").splitlines()):
+        l = l.strip()
+        if l and not l.startswith("#"):
+            return l
+    return None
+
 def live(c):
     return c and c[0] in "23"
 
@@ -147,6 +154,17 @@ def check(ch):
     scode = probe(seg_url, ua, ref, max_time=10)
     if scode in ("200", "206"):
         return {"status": "Hidup", "detail": "segmen OK"}
+
+    # DVR/rolling window yang diurut dari TERTUA: segmen pertama sudah keluar
+    # dari retensi (404) padahal live edge jalan. Coba segmen terakhir dulu
+    # sebelum menyatakan mati (contoh: rt-rtd.rttv.com/dvr/...).
+    last = last_noncomment(vbody)
+    if last and last != seg:
+        lurl = urljoin(vurl, last)
+        lcode = probe(lurl, ua, ref, max_time=10)
+        if lcode in ("200", "206"):
+            return {"status": "Hidup", "detail": f"segmen akhir OK (DVR, awal {scode})"}
+
     return {"status": f"Mati(seg {scode})", "detail": "segmen gagal"}
 
 def worker(idx_ch):
