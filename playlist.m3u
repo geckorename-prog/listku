@@ -310,6 +310,25 @@ https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animasi",Banijay Mr Bean Animé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animasi",Mr. Bean Animated
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animasi",Mr. Bean Anime Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animasi",Mr. Bean Anime Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RetroCrush" group-title="Animasi",RetroCrush
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CINDIE TV" group-title="Movie",CINDIE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
