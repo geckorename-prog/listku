@@ -823,10 +823,6 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Pocket Films" group-title="Movie",Pocket Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-
 #EXTINF:-1 tvg-name="Charge!" group-title="Movie",Charge!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
