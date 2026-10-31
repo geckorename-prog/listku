@@ -319,6 +319,233 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-name="ACC Digital Network" group-title="Olahraga",ACC Digital Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATG Live" group-title="Olahraga",ATG Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+
+#EXTINF:-1 tvg-name="American Ninja Warrior" group-title="Olahraga",American Ninja Warrior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042
+
+#EXTINF:-1 tvg-name="Bahrain Sports 1" group-title="Olahraga",Bahrain Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="Olahraga",Bahrain Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD Sports" group-title="Olahraga",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 Latin America South" group-title="Olahraga",ESPN 2 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 Latin America South" group-title="Olahraga",ESPN 3 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 Latin America South" group-title="Olahraga",ESPN 4 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5 Latin America South" group-title="Olahraga",ESPN 5 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6 Latin America" group-title="Olahraga",ESPN 6 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7 Latin America" group-title="Olahraga",ESPN 7 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Latin America South" group-title="Olahraga",ESPN Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+
+#EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Olahraga",ESPN8 The Ocho
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+ United States" group-title="Olahraga",FIFA+ United States
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FITE 24/7" group-title="Olahraga",FITE 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FTF Sports" group-title="Olahraga",FTF Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FUEL TV APAC" group-title="Olahraga",FUEL TV APAC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FUEL TV Europe" group-title="Olahraga",FUEL TV Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="Fight Network" group-title="Olahraga",Fight Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FloHockey" group-title="Olahraga",FloHockey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports News" group-title="Olahraga",Fox Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Game+" group-title="Olahraga",Game+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBCU-GO Sports" group-title="Olahraga",HBCU-GO Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="InTrouble" group-title="Olahraga",InTrouble
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Inter TV" group-title="Olahraga",Inter TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+
+#EXTINF:-1 tvg-name="KTV Sport" group-title="Olahraga",KTV Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="KTV Sport Plus" group-title="Olahraga",KTV Sport Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="L'Equipe" group-title="Olahraga",L'Equipe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-name="Lacrosse TV" group-title="Olahraga",Lacrosse TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MLB" group-title="Olahraga",MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports NOW" group-title="Olahraga",NBC Sports NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-name="NHL Network" group-title="Olahraga",NHL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oman Sports TV" group-title="Olahraga",Oman Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="PGA Tour" group-title="Olahraga",PGA Tour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pac-12 Insider" group-title="Olahraga",Pac-12 Insider
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTA Sport" group-title="Olahraga",RTA Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
+
+#EXTINF:-1 tvg-name="Rally TV" group-title="Olahraga",Rally TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Olahraga",Real Madrid TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV English" group-title="Olahraga",Real Madrid TV English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-name="Right Now TV" group-title="Olahraga",Right Now TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky Racing 1" group-title="Olahraga",Sky Racing 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia Solocalcio" group-title="Olahraga",Sportitalia Solocalcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SportsGrid" group-title="Olahraga",SportsGrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stadium" group-title="Olahraga",Stadium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Swerve Combat" group-title="Olahraga",Swerve Combat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Swerve Sports" group-title="Olahraga",Swerve Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TSN The Ocho" group-title="Olahraga",TSN The Ocho
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo Desportes Ahora" group-title="Olahraga",Telemundo Desportes Ahora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel" group-title="Olahraga",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports" group-title="Olahraga",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unbeaten" group-title="Olahraga",Unbeaten
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+
+#EXTINF:-1 tvg-name="World Poker Tour Poland" group-title="Olahraga",World Poker Tour Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+
+#EXTINF:-1 tvg-name="World Poker Tour UK" group-title="Olahraga",World Poker Tour UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Poker Tour US" group-title="Olahraga",World Poker Tour US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World of Freesports" group-title="Olahraga",World of Freesports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATXN1" group-title="Internasional",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -431,6 +658,25 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-name="Canal Motor" group-title="Otomotif",Canal Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-name="FloRacing" group-title="Otomotif",FloRacing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NHRA TV" group-title="Otomotif",NHRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RACER International FAST" group-title="Otomotif",RACER International FAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Racer Network" group-title="Otomotif",Racer Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Racer Select" group-title="Otomotif",Racer Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Arirang Radio K-Pop" group-title="Hiburan",Arirang Radio K-Pop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
