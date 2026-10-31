@@ -843,9 +843,11 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u
 #EXTINF:-1 tvg-name="Vacation Channel" group-title="Hiburan",Vacation Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+
 #EXTINF:-1 tvg-name="AMG TV" group-title="Hiburan",AMG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="STS" group-title="Hiburan",STS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -1200,16 +1202,14 @@ https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movie",WFXT-DT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Dove Channel" group-title="Movie",Dove Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Movie",Rakuten TV Family Movies Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
-#EXTINF:-1 tvg-name="Positiv TV" group-title="Movie",Positiv TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
 
 #EXTINF:-1 tvg-name="Outdoor America" group-title="Outdoor",Outdoor America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1472,6 +1472,7 @@ https://w-assembly.hscdn.com/assembly/natv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Internasional",Dong Nai TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+
 #EXTINF:-1 tvg-name="TV Familia" group-title="Internasional",TV Familia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
