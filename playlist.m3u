@@ -319,6 +319,7 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #EXTINF:-1 tvg-name="ACC Digital Network" group-title="Olahraga",ACC Digital Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
@@ -546,6 +547,7 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 #EXTINF:-1 tvg-name="World of Freesports" group-title="Olahraga",World of Freesports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="A Spor" group-title="Olahraga",A Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8
@@ -753,6 +755,7 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 #EXTINF:-1 tvg-name="Canal Motor" group-title="Otomotif",Canal Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
 #EXTINF:-1 tvg-name="FloRacing" group-title="Otomotif",FloRacing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
@@ -1388,10 +1391,6 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-name="Metro TV" group-title="TV Nasional",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Al Wafa Tarim" group-title="TV Nasional",Al Wafa Tarim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://live.alwafatarim.tv/
@@ -1445,6 +1444,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-name="National Assembly TV Korea" group-title="Internasional",National Assembly TV Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://w-assembly.hscdn.com/assembly/natv_1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Internasional",Dong Nai TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
