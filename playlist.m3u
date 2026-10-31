@@ -546,6 +546,101 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 #EXTINF:-1 tvg-name="World of Freesports" group-title="Olahraga",World of Freesports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Olahraga",A Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Africa 24 Sport" group-title="Olahraga",Africa 24 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Deportes Network" group-title="Olahraga",Azteca Deportes Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEK TV Sports West" group-title="Olahraga",BEK TV Sports West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belarus-5" group-title="Olahraga",Belarus-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DraftKings Network" group-title="Olahraga",DraftKings Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-name="Esport3 Originals" group-title="Olahraga",Esport3 Originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" group-title="Olahraga",FB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fast&FunBox" group-title="Olahraga",Fast&FunBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FightBox" group-title="Olahraga",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+
+#EXTINF:-1 tvg-name="Golf Channel" group-title="Olahraga",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Sport" group-title="Olahraga",Jordan Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 tvg-name="MNB Sport" group-title="Olahraga",MNB Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+#EXTINF:-1 tvg-name="MUTV" group-title="Olahraga",MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-name="More Than Sports TV" group-title="Olahraga",More Than Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-name="QazSport" group-title="Olahraga",QazSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV AU" group-title="Olahraga",Red Bull TV AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV BR" group-title="Olahraga",Red Bull TV BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV ES" group-title="Olahraga",Red Bull TV ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV US" group-title="Olahraga",Red Bull TV US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV" group-title="Olahraga",Sport TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://media1.skifnet.by/sporttv/index.m3u8
+
+#EXTINF:-1 tvg-name="Sporty TV" group-title="Olahraga",Sporty TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" group-title="Olahraga",TJK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:-1 tvg-name="TVR Sport" group-title="Olahraga",TVR Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATXN1" group-title="Internasional",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1350,6 +1445,9 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-name="National Assembly TV Korea" group-title="Internasional",National Assembly TV Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://w-assembly.hscdn.com/assembly/natv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Internasional",Dong Nai TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-name="Canal 24 Horas" group-title="World News",Canal 24 Horas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
