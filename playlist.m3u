@@ -1173,6 +1173,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-name="Radost Moya" group-title="Anak",Radost Moya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Anak",Disney Jr. Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-name="Allo Cine" group-title="Movie",Allo Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
