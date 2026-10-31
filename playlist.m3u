@@ -1384,11 +1384,6 @@ https://server.alwafatarim.tv/tv/hls/live/index.m3u8
 #EXTVLCOPT:http-referrer=https://aliman.id/
 https://live.aliman.id/live/livestream.m3u8
 
-#EXTINF:-1 tvg-name="I Am Channel" group-title="TV Nasional",I Am Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://iamchannel.org/
-https://61146e7ab7a66.streamlock.net:8089/tes/1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Naajiya TV" group-title="TV Nasional",Naajiya TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://www.naajiyatv.com/
@@ -1415,10 +1410,6 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-name="HR Fernsehen" group-title="Internasional",HR Fernsehen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-
-#EXTINF:-1 tvg-name="La 1" group-title="Internasional",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-name="Arirang World" group-title="Internasional",Arirang World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
