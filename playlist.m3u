@@ -248,11 +248,6 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTVLCOPT:http-referrer=https://salamtelevisi.com/
 https://live.salamtelevisi.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="Sriwijaya TV" group-title="TV Daerah",Sriwijaya TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://sriwijayatv.tv/
-https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
-
 #EXTINF:-1 tvg-name="TV 9 Nusantara" group-title="TV Daerah",TV 9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tv9now.id/
@@ -278,10 +273,6 @@ https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movie",Gravitas Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-
-#EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Animasi",Disney Channel Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 
 #EXTINF:-1 tvg-name="GREAT! movies UK" group-title="Movie",GREAT! movies UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -310,6 +301,7 @@ https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animasi",Banijay Mr Bean Animé
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
@@ -362,34 +354,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-name="DD Sports" group-title="Olahraga",DD Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 2 Latin America South" group-title="Olahraga",ESPN 2 Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 3 Latin America South" group-title="Olahraga",ESPN 3 Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 4 Latin America South" group-title="Olahraga",ESPN 4 Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 5 Latin America South" group-title="Olahraga",ESPN 5 Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 6 Latin America" group-title="Olahraga",ESPN 6 Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 7 Latin America" group-title="Olahraga",ESPN 7 Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-
-#EXTINF:-1 tvg-name="ESPN Latin America South" group-title="Olahraga",ESPN Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Olahraga",ESPN8 The Ocho
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -591,14 +555,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 
-#EXTINF:-1 tvg-name="Esport3 Originals" group-title="Olahraga",Esport3 Originals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="FB TV" group-title="Olahraga",FB TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Fast&FunBox" group-title="Olahraga",Fast&FunBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
@@ -646,10 +602,6 @@ https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Red Bull TV US" group-title="Olahraga",Red Bull TV US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sport TV" group-title="Olahraga",Sport TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://media1.skifnet.by/sporttv/index.m3u8
 
 #EXTINF:-1 tvg-name="Sporty TV" group-title="Olahraga",Sporty TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1146,17 +1098,9 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Comedy Central Latin America" group-title="Komedi",Comedy Central Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
-
 #EXTINF:-1 tvg-name="MST3K" group-title="Komedi",MST3K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mst3k-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Nickelodeon Latin America" group-title="Anak",Nickelodeon Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 
 #EXTINF:-1 tvg-name="ETV 2" group-title="Anak",ETV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1173,6 +1117,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-name="Radost Moya" group-title="Anak",Radost Moya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Anak",Disney Jr. Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1184,10 +1129,6 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Cine Friki" group-title="Movie",Cine Friki
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-
-#EXTINF:-1 tvg-name="Cinecanal Panregional" group-title="Movie",Cinecanal Panregional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movie",Bhojpuri Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1280,10 +1221,6 @@ https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-name="Love Pets" group-title="Dokumenter",Love Pets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
-
-#EXTINF:-1 tvg-name="National Geographic LATAM" group-title="Dokumenter",National Geographic LATAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 
 #EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Dokumenter",Smotrim 100% Fakty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
