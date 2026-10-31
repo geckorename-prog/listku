@@ -37,6 +37,8 @@ WHITELIST = (
     # disetujui Nanda Okt 2026 (hasil uji "grup A" kategori family)
     "ngenix.net", "mediatailor.eu-west-1.amazonaws.com", "iptv-playoutcenter.de",
     "jwplive.com",
+    # disetujui Nanda Okt 2026 (hasil uji "grup A" kategori animation)
+    "vtrplay.com",
 )
 BANNED = (
     "bozztv.com", "samcast.com.br", "voxtvhd.com.br", "onnethn.com", "paroledivita.org",
