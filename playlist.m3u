@@ -262,10 +262,6 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 
-#EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animasi",Spacetoon Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
-
 #EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movie",Gravitas Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
@@ -302,18 +298,6 @@ https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Animasi",Mr. Bean Animated
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animasi",Mr. Bean Anime Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animasi",Mr. Bean Anime Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RetroCrush" group-title="Animasi",RetroCrush
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
@@ -346,10 +330,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahrain Sports 2" group-title="Olahraga",Bahrain Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DD Sports" group-title="Olahraga",DD Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN8 The Ocho" group-title="Olahraga",ESPN8 The Ocho
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -395,10 +375,6 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="InTrouble" group-title="Olahraga",InTrouble
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Inter TV" group-title="Olahraga",Inter TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
@@ -418,10 +394,6 @@ https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-name="Lacrosse TV" group-title="Olahraga",Lacrosse TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="MLB" group-title="Olahraga",MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" group-title="Olahraga",NBC Sports NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -467,10 +439,6 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-
 #EXTINF:-1 tvg-name="Sportitalia Solocalcio" group-title="Olahraga",Sportitalia Solocalcio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
@@ -511,10 +479,6 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
-#EXTINF:-1 tvg-name="World Poker Tour Poland" group-title="Olahraga",World Poker Tour Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
-
 #EXTINF:-1 tvg-name="World Poker Tour UK" group-title="Olahraga",World Poker Tour UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
@@ -539,17 +503,9 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BEK TV Sports West" group-title="Olahraga",BEK TV Sports West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Belarus-5" group-title="Olahraga",Belarus-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DraftKings Network" group-title="Olahraga",DraftKings Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 
 #EXTINF:-1 tvg-name="Fast&FunBox" group-title="Olahraga",Fast&FunBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -807,10 +763,6 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vacation Channel" group-title="Hiburan",Vacation Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
-
 #EXTINF:-1 tvg-name="AMG TV" group-title="Hiburan",AMG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -822,10 +774,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-name="STS Love" group-title="Hiburan",STS Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-
-#EXTINF:-1 tvg-name="RiC" group-title="Hiburan",RiC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
 
 #EXTINF:-1 tvg-name="In the Kitchen" group-title="Lifestyle",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -1379,11 +1327,6 @@ https://server.alwafatarim.tv/tv/hls/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://aliman.id/
 https://live.aliman.id/live/livestream.m3u8
-
-#EXTINF:-1 tvg-name="Naajiya TV" group-title="TV Nasional",Naajiya TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/
-https://stream.naajiyatv.com/live/livestream.m3u8
 
 #EXTINF:-1 tvg-name="Nusantara TV" group-title="TV Nasional",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
