@@ -177,6 +177,9 @@ https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-name="TVRI PAPUA BARAT" group-title="TVRI Daerah",TVRI PAPUA BARAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 #EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
@@ -248,6 +251,41 @@ https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tv9now.id/
 https://5bf7b725107e5.streamlock.net:443/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Daerah",Angel TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Banten TV" group-title="TV Daerah",Banten TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BRTV" group-title="TV Daerah",BRTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bungo TV" group-title="TV Daerah",Bungo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kilisuci TV" group-title="TV Daerah",Kilisuci TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MQTV" group-title="TV Daerah",MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stara TV Bojonegoro" group-title="TV Daerah",Stara TV Bojonegoro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://bojonegoro.staratv.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Banyumas TV" group-title="TV Daerah",Banyumas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Nusantara" group-title="TV Daerah",TV9 Nusantara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1337,6 +1375,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://rodja.tv/
 https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-name="MDTV" group-title="TV Nasional",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://dens.tv/tv-local
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
 #EXTINF:-1 tvg-name="Iran International" group-title="World News",Iran International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
