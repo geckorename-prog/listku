@@ -1169,6 +1169,81 @@ https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Movie",Rakuten TV Family Movies Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-name="B4U Bhojpuri" group-title="Movie",B4U Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-name="Punjabi Shorts" group-title="Movie",Punjabi Shorts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+
+#EXTINF:-1 tvg-name="Cine Western" group-title="Movie",Cine Western
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Movie",OuterSphere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-name="Sony One Hits Comedie" group-title="Movie",Sony One Hits Comedie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV Action Movies Germany" group-title="Movie",Rakuten TV Action Movies Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV Family Movies UK" group-title="Movie",Rakuten TV Family Movies UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+
+#EXTINF:-1 tvg-name="MyTime Movie Network East" group-title="Movie",MyTime Movie Network East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine Sony" group-title="Movie",Cine Sony
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Movie",Sony Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movies! KPVM-LD" group-title="Movie",Movies! KPVM-LD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Emotion Adria" group-title="Movie",FILMBOX+ Emotion Adria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movie",FILMBOX+ Festival
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Hits Adria" group-title="Movie",FILMBOX+ Hits Adria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Love & Crime Adria" group-title="Movie",FILMBOX+ Love & Crime Adria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+
+#EXTINF:-1 tvg-name="Cinecanal Panregional" group-title="Movie",Cinecanal Panregional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Movie",Star Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Family" group-title="Movie",Star Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movie",My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-name="Outdoor America" group-title="Outdoor",Outdoor America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
