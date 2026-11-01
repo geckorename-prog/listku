@@ -715,10 +715,6 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Motorvision" group-title="Otomotif",Motorvision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-
 #EXTINF:-1 tvg-name="PowerNation TV" group-title="Otomotif",PowerNation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
@@ -822,12 +818,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-name="STS Love" group-title="Hiburan",STS Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
 #EXTINF:-1 tvg-name="4U TV" group-title="Hiburan",4U TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hls.4utv.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-name="America TeVe" group-title="Hiburan",America TeVe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.gideo.video/americateve2/master.m3u8
+
 #EXTINF:-1 tvg-name="Circle" group-title="Hiburan",Circle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://circle-xumo.amagi.tv/playlist.m3u8
@@ -870,10 +869,6 @@ https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Atfal & Mawaheb TV" group-title="Anak",Atfal & Mawaheb TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="FTV" group-title="Music",FTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream8.cinerama.uz/1018/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hitradio O3" group-title="Music",Hitradio O3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1535,6 +1530,7 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-name="TV Familia" group-title="Internasional",TV Familia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Azteca Honduras" group-title="Internasional",Azteca Honduras
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
