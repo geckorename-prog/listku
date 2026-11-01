@@ -177,6 +177,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
 #EXTINF:-1 tvg-name="TVRI PAPUA BARAT" group-title="TVRI Daerah",TVRI PAPUA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
@@ -251,6 +252,7 @@ https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tv9now.id/
 https://5bf7b725107e5.streamlock.net:443/tv9/tv9/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Daerah",Angel TV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
@@ -286,6 +288,7 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-name="TV9 Nusantara" group-title="TV Daerah",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
 #EXTINF:-1 tvg-name="UGTV" group-title="TV Daerah",UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -439,10 +442,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="L'Equipe" group-title="Olahraga",L'Equipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-
-#EXTINF:-1 tvg-name="Lacrosse TV" group-title="Olahraga",Lacrosse TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" group-title="Olahraga",NBC Sports NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -990,6 +989,7 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-name="Schwab Network" group-title="Business" tvg-country="US" tvg-language="eng",Schwab Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+
 #EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
@@ -1117,6 +1117,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Anak",Disney Jr. Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Anak",Disney Channel Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
@@ -1172,6 +1173,7 @@ https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Movie",Rakuten TV Family Movies Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
 #EXTINF:-1 tvg-name="B4U Bhojpuri" group-title="Movie",B4U Bhojpuri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
@@ -1467,10 +1469,12 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://rodja.tv/
 https://rodjatv.com/rodjatv/live.m3u8
+
 #EXTINF:-1 tvg-name="MDTV" group-title="TV Nasional",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://dens.tv/tv-local
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
 #EXTINF:-1 tvg-name="Metro TV" group-title="TV Nasional",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
