@@ -828,6 +828,9 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="America TeVe" group-title="Hiburan",America TeVe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-name="Circle" group-title="Hiburan",Circle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://circle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="In the Kitchen" group-title="Lifestyle",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
