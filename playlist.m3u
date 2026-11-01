@@ -1,336 +1,324 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="BERITA SATU" group-title="TV Nasional",BERITA SATU
+#EXTINF:-1 tvg-name="BERITA SATU" group-title="TV Indonesia",BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:-1 tvg-name="BTV" group-title="TV Nasional",BTV
+#EXTINF:-1 tvg-name="BTV" group-title="TV Indonesia",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-name="DAAI" group-title="TV Nasional",DAAI
+#EXTINF:-1 tvg-name="DAAI" group-title="TV Indonesia",DAAI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-name="KOMPAS TV" group-title="TV Nasional",KOMPAS TV
+#EXTINF:-1 tvg-name="KOMPAS TV" group-title="TV Indonesia",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-name="TRANS 7" group-title="TV Nasional",TRANS 7
+#EXTINF:-1 tvg-name="TRANS 7" group-title="TV Indonesia",TRANS 7
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRANS TV" group-title="TV Nasional",TRANS TV
+#EXTINF:-1 tvg-name="TRANS TV" group-title="TV Indonesia",TRANS TV
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVRI NASIONAL" group-title="TV Nasional",TVRI NASIONAL
+#EXTINF:-1 tvg-name="TVRI NASIONAL" group-title="TV Indonesia",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-name="TVRI WORLD" group-title="TV Nasional",TVRI WORLD
+#EXTINF:-1 tvg-name="TVRI WORLD" group-title="TV Indonesia",TVRI WORLD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-name="TVRI ACEH" group-title="TVRI Daerah",TVRI ACEH
+#EXTINF:-1 tvg-name="TVRI ACEH" group-title="TV Indonesia",TVRI ACEH
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI AMBON" group-title="TVRI Daerah",TVRI AMBON
+#EXTINF:-1 tvg-name="TVRI AMBON" group-title="TV Indonesia",TVRI AMBON
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI BALI" group-title="TVRI Daerah",TVRI BALI
+#EXTINF:-1 tvg-name="TVRI BALI" group-title="TV Indonesia",TVRI BALI
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI BANGKA BELITUNG" group-title="TVRI Daerah",TVRI BANGKA BELITUNG
+#EXTINF:-1 tvg-name="TVRI BANGKA BELITUNG" group-title="TV Indonesia",TVRI BANGKA BELITUNG
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI BENGKULU" group-title="TVRI Daerah",TVRI BENGKULU
+#EXTINF:-1 tvg-name="TVRI BENGKULU" group-title="TV Indonesia",TVRI BENGKULU
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI GORONTALO" group-title="TVRI Daerah",TVRI GORONTALO
+#EXTINF:-1 tvg-name="TVRI GORONTALO" group-title="TV Indonesia",TVRI GORONTALO
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI JAKARTA" group-title="TVRI Daerah",TVRI JAKARTA
+#EXTINF:-1 tvg-name="TVRI JAKARTA" group-title="TV Indonesia",TVRI JAKARTA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI JAMBI" group-title="TVRI Daerah",TVRI JAMBI
+#EXTINF:-1 tvg-name="TVRI JAMBI" group-title="TV Indonesia",TVRI JAMBI
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI JAWA TENGAH" group-title="TVRI Daerah",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-name="TVRI JAWA TENGAH" group-title="TV Indonesia",TVRI JAWA TENGAH
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI JAWA TIMUR" group-title="TVRI Daerah",TVRI JAWA TIMUR
+#EXTINF:-1 tvg-name="TVRI JAWA TIMUR" group-title="TV Indonesia",TVRI JAWA TIMUR
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN SELATAN" group-title="TVRI Daerah",TVRI KALIMANTAN SELATAN
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN SELATAN" group-title="TV Indonesia",TVRI KALIMANTAN SELATAN
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN TENGAH" group-title="TVRI Daerah",TVRI KALIMANTAN TENGAH
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN TENGAH" group-title="TV Indonesia",TVRI KALIMANTAN TENGAH
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN TIMUR" group-title="TVRI Daerah",TVRI KALIMANTAN TIMUR
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN TIMUR" group-title="TV Indonesia",TVRI KALIMANTAN TIMUR
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI NTB" group-title="TVRI Daerah",TVRI NTB
+#EXTINF:-1 tvg-name="TVRI NTB" group-title="TV Indonesia",TVRI NTB
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI NTT" group-title="TVRI Daerah",TVRI NTT
+#EXTINF:-1 tvg-name="TVRI NTT" group-title="TV Indonesia",TVRI NTT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI PAPUA" group-title="TVRI Daerah",TVRI PAPUA
+#EXTINF:-1 tvg-name="TVRI PAPUA" group-title="TV Indonesia",TVRI PAPUA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI RIAU" group-title="TVRI Daerah",TVRI RIAU
+#EXTINF:-1 tvg-name="TVRI RIAU" group-title="TV Indonesia",TVRI RIAU
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SULAWESI BARAT" group-title="TVRI Daerah",TVRI SULAWESI BARAT
+#EXTINF:-1 tvg-name="TVRI SULAWESI BARAT" group-title="TV Indonesia",TVRI SULAWESI BARAT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SULAWESI SELATAN" group-title="TVRI Daerah",TVRI SULAWESI SELATAN
+#EXTINF:-1 tvg-name="TVRI SULAWESI SELATAN" group-title="TV Indonesia",TVRI SULAWESI SELATAN
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SULAWESI TENGGARA" group-title="TVRI Daerah",TVRI SULAWESI TENGGARA
+#EXTINF:-1 tvg-name="TVRI SULAWESI TENGGARA" group-title="TV Indonesia",TVRI SULAWESI TENGGARA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SULAWESI UTARA" group-title="TVRI Daerah",TVRI SULAWESI UTARA
+#EXTINF:-1 tvg-name="TVRI SULAWESI UTARA" group-title="TV Indonesia",TVRI SULAWESI UTARA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SUMATRA SELATAN" group-title="TVRI Daerah",TVRI SUMATRA SELATAN
+#EXTINF:-1 tvg-name="TVRI SUMATRA SELATAN" group-title="TV Indonesia",TVRI SUMATRA SELATAN
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI YOGYAKARTA" group-title="TVRI Daerah",TVRI YOGYAKARTA
+#EXTINF:-1 tvg-name="TVRI YOGYAKARTA" group-title="TV Indonesia",TVRI YOGYAKARTA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
 
-#EXTINF:-1 tvg-name="TVRI JAWA BARAT" group-title="TVRI Daerah",TVRI JAWA BARAT
+#EXTINF:-1 tvg-name="TVRI JAWA BARAT" group-title="TV Indonesia",TVRI JAWA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-name="TVRI KALIMANTAN BARAT" group-title="TVRI Daerah",TVRI KALIMANTAN BARAT
+#EXTINF:-1 tvg-name="TVRI KALIMANTAN BARAT" group-title="TV Indonesia",TVRI KALIMANTAN BARAT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-#EXTINF:-1 tvg-name="TVRI LAMPUNG" group-title="TVRI Daerah",TVRI LAMPUNG
+#EXTINF:-1 tvg-name="TVRI LAMPUNG" group-title="TV Indonesia",TVRI LAMPUNG
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SULAWESI TENGAH" group-title="TVRI Daerah",TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-name="TVRI SULAWESI TENGAH" group-title="TV Indonesia",TVRI SULAWESI TENGAH
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SUMATERA BARAT" group-title="TVRI Daerah",TVRI SUMATERA BARAT
+#EXTINF:-1 tvg-name="TVRI SUMATERA BARAT" group-title="TV Indonesia",TVRI SUMATERA BARAT
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SUMATERA UTARA" group-title="TVRI Daerah",TVRI SUMATERA UTARA
+#EXTINF:-1 tvg-name="TVRI SUMATERA UTARA" group-title="TV Indonesia",TVRI SUMATERA UTARA
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 
-#EXTINF:-1 tvg-name="TVRI PAPUA BARAT" group-title="TVRI Daerah",TVRI PAPUA BARAT
+#EXTINF:-1 tvg-name="TVRI PAPUA BARAT" group-title="TV Indonesia",TVRI PAPUA BARAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
-#EXTINF:-1 tvg-name="Caruban TV" group-title="TV Daerah",Caruban TV
+#EXTINF:-1 tvg-name="Caruban TV" group-title="TV Indonesia",Caruban TV
 https://stream.carubantv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV BANDUNG" group-title="TV Daerah",STARATV BANDUNG
+#EXTINF:-1 tvg-name="STARATV BANDUNG" group-title="TV Indonesia",STARATV BANDUNG
 https://bandung.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV BOJONEGORO" group-title="TV Daerah",STARATV BOJONEGORO
+#EXTINF:-1 tvg-name="STARATV BOJONEGORO" group-title="TV Indonesia",STARATV BOJONEGORO
 https://bojonegoro.staratv.id/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV CIANJUR" group-title="TV Daerah",STARATV CIANJUR
+#EXTINF:-1 tvg-name="STARATV CIANJUR" group-title="TV Indonesia",STARATV CIANJUR
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV JAKARTA" group-title="TV Daerah",STARATV JAKARTA
+#EXTINF:-1 tvg-name="STARATV JAKARTA" group-title="TV Indonesia",STARATV JAKARTA
 https://jakarta.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV MAJALENGKA" group-title="TV Daerah",STARATV MAJALENGKA
+#EXTINF:-1 tvg-name="STARATV MAJALENGKA" group-title="TV Indonesia",STARATV MAJALENGKA
 https://stream.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV MALANG" group-title="TV Daerah",STARATV MALANG
+#EXTINF:-1 tvg-name="STARATV MALANG" group-title="TV Indonesia",STARATV MALANG
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="STARATV PARAHYANGAN" group-title="TV Daerah",STARATV PARAHYANGAN
+#EXTINF:-1 tvg-name="STARATV PARAHYANGAN" group-title="TV Indonesia",STARATV PARAHYANGAN
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Daerah",TV Tabalong
+#EXTINF:-1 tvg-name="TV Tabalong" group-title="TV Indonesia",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ahsan TV" group-title="TV Daerah",Ahsan TV
+#EXTINF:-1 tvg-name="Ahsan TV" group-title="TV Indonesia",Ahsan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ashiil TV" group-title="TV Daerah",Ashiil TV
+#EXTINF:-1 tvg-name="Ashiil TV" group-title="TV Indonesia",Ashiil TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BMS TV" group-title="TV Daerah",BMS TV
+#EXTINF:-1 tvg-name="BMS TV" group-title="TV Indonesia",BMS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://bmstv.id/
 https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dhamma TV" group-title="TV Daerah",Dhamma TV
+#EXTINF:-1 tvg-name="Dhamma TV" group-title="TV Indonesia",Dhamma TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://dhammaweb.tv/
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-name="Duta TV" group-title="TV Daerah",Duta TV
+#EXTINF:-1 tvg-name="Duta TV" group-title="TV Indonesia",Duta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://dutatv.com/
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="KSTV" group-title="TV Daerah",KSTV
+#EXTINF:-1 tvg-name="KSTV" group-title="TV Indonesia",KSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://kstv.co.id/
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rajawali TV" group-title="TV Daerah",Rajawali TV
+#EXTINF:-1 tvg-name="Rajawali TV" group-title="TV Indonesia",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://www.rtv.co.id/
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
-#EXTINF:-1 tvg-name="Salam TV" group-title="TV Daerah",Salam TV
+#EXTINF:-1 tvg-name="Salam TV" group-title="TV Indonesia",Salam TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://salamtelevisi.com/
 https://live.salamtelevisi.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="TV 9 Nusantara" group-title="TV Daerah",TV 9 Nusantara
+#EXTINF:-1 tvg-name="TV 9 Nusantara" group-title="TV Indonesia",TV 9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://tv9now.id/
 https://5bf7b725107e5.streamlock.net:443/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Daerah",Angel TV Indonesia
+#EXTINF:-1 tvg-name="Angel TV Indonesia" group-title="TV Indonesia",Angel TV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Banten TV" group-title="TV Daerah",Banten TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BRTV" group-title="TV Daerah",BRTV
+#EXTINF:-1 tvg-name="BRTV" group-title="TV Indonesia",BRTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bungo TV" group-title="TV Daerah",Bungo TV
+#EXTINF:-1 tvg-name="Bungo TV" group-title="TV Indonesia",Bungo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kilisuci TV" group-title="TV Daerah",Kilisuci TV
+#EXTINF:-1 tvg-name="Kilisuci TV" group-title="TV Indonesia",Kilisuci TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MQTV" group-title="TV Daerah",MQTV
+#EXTINF:-1 tvg-name="MQTV" group-title="TV Indonesia",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Stara TV Bojonegoro" group-title="TV Daerah",Stara TV Bojonegoro
+#EXTINF:-1 tvg-name="Stara TV Bojonegoro" group-title="TV Indonesia",Stara TV Bojonegoro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://bojonegoro.staratv.id/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Banyumas TV" group-title="TV Daerah",Banyumas TV
+#EXTINF:-1 tvg-name="Banyumas TV" group-title="TV Indonesia",Banyumas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV9 Nusantara" group-title="TV Daerah",TV9 Nusantara
+#EXTINF:-1 tvg-name="TV9 Nusantara" group-title="TV Indonesia",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UGTV" group-title="TV Daerah",UGTV
+#EXTINF:-1 tvg-name="UGTV" group-title="TV Indonesia",UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-name="Jogja TV" group-title="TV Daerah",Jogja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-#EXTINF:-1 tvg-name="Rinjani TV" group-title="TV Daerah",Rinjani TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://rinjanitv.cloud/hls/tvkabel.m3u8
 
 #EXTINF:-1 tvg-name="MOONBUG KIDS" group-title="Anak",MOONBUG KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ADN TV+" group-title="Animasi",ADN TV+
+#EXTINF:-1 tvg-name="ADN TV+" group-title="Anak",ADN TV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvgarden.world/tv/animation/yjR0KcAL5erp0S
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
-#EXTINF:-1 tvg-name="Spacetoon Arabic" group-title="Animasi",Spacetoon Arabic
+#EXTINF:-1 tvg-name="Spacetoon Arabic" group-title="Anak",Spacetoon Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 
-#EXTINF:-1 tvg-name="Gravitas Movies" group-title="Movie",Gravitas Movies
+#EXTINF:-1 tvg-name="Gravitas Movies" group-title="Hiburan",Gravitas Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 
-#EXTINF:-1 tvg-name="GREAT! movies UK" group-title="Movie",GREAT! movies UK
+#EXTINF:-1 tvg-name="GREAT! movies UK" group-title="Hiburan",GREAT! movies UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Solnce" group-title="Animasi",Solnce
+#EXTINF:-1 tvg-name="Solnce" group-title="Anak",Solnce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GREAT! romance UK" group-title="Movie",GREAT! romance UK
+#EXTINF:-1 tvg-name="GREAT! romance UK" group-title="Hiburan",GREAT! romance UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tooku" group-title="Animasi",Tooku
+#EXTINF:-1 tvg-name="Tooku" group-title="Anak",Tooku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
@@ -338,23 +326,23 @@ https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Animasi",FilmRise Anime
+#EXTINF:-1 tvg-name="FilmRise Anime" group-title="Anak",FilmRise Anime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Animasi",Yu-Gi-Oh!
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Anak",Yu-Gi-Oh!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Animasi",Banijay Mr Bean Animé
+#EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Anak",Banijay Mr Bean Animé
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RetroCrush" group-title="Animasi",RetroCrush
+#EXTINF:-1 tvg-name="RetroCrush" group-title="Anak",RetroCrush
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CINDIE TV" group-title="Movie",CINDIE TV
+#EXTINF:-1 tvg-name="CINDIE TV" group-title="Hiburan",CINDIE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
@@ -615,131 +603,131 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ATXN1" group-title="Internasional",ATXN1
+#EXTINF:-1 tvg-name="ATXN1" group-title="Berita",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
 
-#EXTINF:-1 tvg-name="KTV" group-title="Internasional",KTV
+#EXTINF:-1 tvg-name="KTV" group-title="Berita",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Emotion L" group-title="Movie",Emotion L
+#EXTINF:-1 tvg-name="Emotion L" group-title="Hiburan",Emotion L
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CMAC 3" group-title="Internasional",CMAC 3
+#EXTINF:-1 tvg-name="CMAC 3" group-title="Berita",CMAC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 
-#EXTINF:-1 tvg-name="Epic Bhojpuri Digital" group-title="Movie",Epic Bhojpuri Digital
+#EXTINF:-1 tvg-name="Epic Bhojpuri Digital" group-title="Hiburan",Epic Bhojpuri Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cypress Channel 36" group-title="Internasional",Cypress Channel 36
+#EXTINF:-1 tvg-name="Cypress Channel 36" group-title="Berita",Cypress Channel 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MovieSphere UK" group-title="Movie",MovieSphere UK
+#EXTINF:-1 tvg-name="MovieSphere UK" group-title="Hiburan",MovieSphere UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MyTime Movie Network BR" group-title="Movie",MyTime Movie Network BR
+#EXTINF:-1 tvg-name="MyTime Movie Network BR" group-title="Hiburan",MyTime Movie Network BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NOST" group-title="Movie",NOST
+#EXTINF:-1 tvg-name="NOST" group-title="Hiburan",NOST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ScreamIN" group-title="Movie",ScreamIN
+#EXTINF:-1 tvg-name="ScreamIN" group-title="Hiburan",ScreamIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Flowers TV USA" group-title="Culture",Flowers TV USA
+#EXTINF:-1 tvg-name="Flowers TV USA" group-title="Edukasi",Flowers TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
-#EXTINF:-1 tvg-name="South Station" group-title="Movie",South Station
+#EXTINF:-1 tvg-name="South Station" group-title="Hiburan",South Station
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hmong Star TV" group-title="Culture",Hmong Star TV
+#EXTINF:-1 tvg-name="Hmong Star TV" group-title="Edukasi",Hmong Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="KTV 2" group-title="Culture",KTV 2
+#EXTINF:-1 tvg-name="KTV 2" group-title="Edukasi",KTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Bem Mais TV" group-title="Culture",Bem Mais TV
+#EXTINF:-1 tvg-name="Bem Mais TV" group-title="Edukasi",Bem Mais TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FNX" group-title="Culture",FNX
+#EXTINF:-1 tvg-name="FNX" group-title="Edukasi",FNX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fnx.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-name="BBS" group-title="Culture",BBS
+#EXTINF:-1 tvg-name="BBS" group-title="Edukasi",BBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BTN" group-title="Culture",BTN
+#EXTINF:-1 tvg-name="BTN" group-title="Edukasi",BTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CBS TV" group-title="Culture",CBS TV
+#EXTINF:-1 tvg-name="CBS TV" group-title="Edukasi",CBS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CGN TV Chinese" group-title="Culture",CGN TV Chinese
+#EXTINF:-1 tvg-name="CGN TV Chinese" group-title="Edukasi",CGN TV Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 
-#EXTINF:-1 tvg-name="FGTV" group-title="Culture",FGTV
+#EXTINF:-1 tvg-name="FGTV" group-title="Edukasi",FGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WBS" group-title="Culture",WBS
+#EXTINF:-1 tvg-name="WBS" group-title="Edukasi",WBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://wbstv.kr/live/livestream.m3u8
 
-#EXTINF:-1 tvg-name="Fun Roads" group-title="Otomotif",Fun Roads
+#EXTINF:-1 tvg-name="Fun Roads" group-title="Olahraga",Fun Roads
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Shift TV" group-title="Otomotif",Shift TV
+#EXTINF:-1 tvg-name="Shift TV" group-title="Olahraga",Shift TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hls.shift.tv/live/shifttv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Choppertown" group-title="Otomotif",Choppertown
+#EXTINF:-1 tvg-name="Choppertown" group-title="Olahraga",Choppertown
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PowerNation TV" group-title="Otomotif",PowerNation TV
+#EXTINF:-1 tvg-name="PowerNation TV" group-title="Olahraga",PowerNation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal Motor" group-title="Otomotif",Canal Motor
+#EXTINF:-1 tvg-name="Canal Motor" group-title="Olahraga",Canal Motor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF:-1 tvg-name="FloRacing" group-title="Otomotif",FloRacing
+#EXTINF:-1 tvg-name="FloRacing" group-title="Olahraga",FloRacing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NHRA TV" group-title="Otomotif",NHRA TV
+#EXTINF:-1 tvg-name="NHRA TV" group-title="Olahraga",NHRA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RACER International FAST" group-title="Otomotif",RACER International FAST
+#EXTINF:-1 tvg-name="RACER International FAST" group-title="Olahraga",RACER International FAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Racer Network" group-title="Otomotif",Racer Network
+#EXTINF:-1 tvg-name="Racer Network" group-title="Olahraga",Racer Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Racer Select" group-title="Otomotif",Racer Select
+#EXTINF:-1 tvg-name="Racer Select" group-title="Olahraga",Racer Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 
@@ -831,19 +819,19 @@ https://live.gideo.video/americateve2/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://circle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="In the Kitchen" group-title="Lifestyle",In the Kitchen
+#EXTINF:-1 tvg-name="In the Kitchen" group-title="Hiburan",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:-1 tvg-name="bon appetit" group-title="Lifestyle",bon appetit
+#EXTINF:-1 tvg-name="bon appetit" group-title="Hiburan",bon appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dens Food Channel" group-title="Lifestyle",Dens Food Channel
+#EXTINF:-1 tvg-name="Dens Food Channel" group-title="Hiburan",Dens Food Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
-#EXTINF:-1 tvg-name="Gusto TV" group-title="Lifestyle",Gusto TV
+#EXTINF:-1 tvg-name="Gusto TV" group-title="Hiburan",Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NBS Korea Agriculture TV" group-title="Lifestyle",NBS Korea Agriculture TV
+#EXTINF:-1 tvg-name="NBS Korea Agriculture TV" group-title="Hiburan",NBS Korea Agriculture TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
 
@@ -854,15 +842,15 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chamame TV" group-title="Music" tvg-country="AR" tvg-language="spa",Chamame TV
+#EXTINF:-1 tvg-name="Chamame TV" group-title="Musik" tvg-country="AR" tvg-language="spa",Chamame TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="City TV" group-title="Music",City TV
+#EXTINF:-1 tvg-name="City TV" group-title="Musik",City TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 
-#EXTINF:-1 tvg-name="Clubbing TV UK" group-title="Music",Clubbing TV UK
+#EXTINF:-1 tvg-name="Clubbing TV UK" group-title="Musik",Clubbing TV UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 
@@ -870,11 +858,11 @@ https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hitradio O3" group-title="Music",Hitradio O3
+#EXTINF:-1 tvg-name="Hitradio O3" group-title="Musik",Hitradio O3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
 
-#EXTINF:-1 tvg-name="Kiss Kiss TV" group-title="Music",Kiss Kiss TV
+#EXTINF:-1 tvg-name="Kiss Kiss TV" group-title="Musik",Kiss Kiss TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 
@@ -882,7 +870,7 @@ https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-name="Now 70s" group-title="Music",Now 70s
+#EXTINF:-1 tvg-name="Now 70s" group-title="Musik",Now 70s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 
@@ -890,7 +878,7 @@ https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
-#EXTINF:-1 tvg-name="POP World TV" group-title="Music",POP World TV
+#EXTINF:-1 tvg-name="POP World TV" group-title="Musik",POP World TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
@@ -950,155 +938,155 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-name="ABC 25 News Central Texas" group-title="World News",ABC 25 News Central Texas
+#EXTINF:-1 tvg-name="ABC 25 News Central Texas" group-title="Berita",ABC 25 News Central Texas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 
-#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Business" tvg-country="AE" tvg-language="ara",Al Arabiya Business
+#EXTINF:-1 tvg-name="Al Arabiya Business" group-title="Berita" tvg-country="AE" tvg-language="ara",Al Arabiya Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNBC-e" group-title="Business" tvg-country="TR" tvg-language="tur",CNBC-e
+#EXTINF:-1 tvg-name="CNBC-e" group-title="Berita" tvg-country="TR" tvg-language="tur",CNBC-e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Business" tvg-country="AE" tvg-language="ara",CNBC Arabiya
+#EXTINF:-1 tvg-name="CNBC Arabiya" group-title="Berita" tvg-country="AE" tvg-language="ara",CNBC Arabiya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
-#EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Business" tvg-country="IN" tvg-language="hin",CNBC Awaaz
+#EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Berita" tvg-country="IN" tvg-language="hin",CNBC Awaaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-name="CNBC Bajar" group-title="Business" tvg-country="IN" tvg-language="guj",CNBC Bajar
+#EXTINF:-1 tvg-name="CNBC Bajar" group-title="Berita" tvg-country="IN" tvg-language="guj",CNBC Bajar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 tvg-name="CNBC TV18" group-title="Business" tvg-country="IN" tvg-language="eng",CNBC TV18
+#EXTINF:-1 tvg-name="CNBC TV18" group-title="Berita" tvg-country="IN" tvg-language="eng",CNBC TV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 tvg-name="CNBC TV18 Prime HD" group-title="Business" tvg-country="IN" tvg-language="eng",CNBC TV18 Prime HD
+#EXTINF:-1 tvg-name="CNBC TV18 Prime HD" group-title="Berita" tvg-country="IN" tvg-language="eng",CNBC TV18 Prime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 
-#EXTINF:-1 tvg-name="DeFiance Media" group-title="Business" tvg-country="PR" tvg-language="eng",DeFiance Media
+#EXTINF:-1 tvg-name="DeFiance Media" group-title="Berita" tvg-country="PR" tvg-language="eng",DeFiance Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NDTV Profit" group-title="Business" tvg-country="IN" tvg-language="eng",NDTV Profit
+#EXTINF:-1 tvg-name="NDTV Profit" group-title="Berita" tvg-country="IN" tvg-language="eng",NDTV Profit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 
-#EXTINF:-1 tvg-name="Schwab Network" group-title="Business" tvg-country="US" tvg-language="eng",Schwab Network
+#EXTINF:-1 tvg-name="Schwab Network" group-title="Berita" tvg-country="US" tvg-language="eng",Schwab Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 
-#EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
+#EXTINF:-1 tvg-name="CNBC Indonesia" group-title="Berita",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="BATV Educational" group-title="Education",BATV Educational
+#EXTINF:-1 tvg-name="BATV Educational" group-title="Edukasi",BATV Educational
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Campus TV" group-title="Education",Campus TV
+#EXTINF:-1 tvg-name="Campus TV" group-title="Edukasi",Campus TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal Educacao" group-title="Education",Canal Educacao
+#EXTINF:-1 tvg-name="Canal Educacao" group-title="Edukasi",Canal Educacao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-name="Classic Arts Showcase" group-title="Education",Classic Arts Showcase
+#EXTINF:-1 tvg-name="Classic Arts Showcase" group-title="Edukasi",Classic Arts Showcase
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-name="Cloudflare TV" group-title="Education",Cloudflare TV
+#EXTINF:-1 tvg-name="Cloudflare TV" group-title="Edukasi",Cloudflare TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cloudflare.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-name="CMAC 2" group-title="Education",CMAC 2
+#EXTINF:-1 tvg-name="CMAC 2" group-title="Edukasi",CMAC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 
-#EXTINF:-1 tvg-name="DerryTV 23" group-title="Education",DerryTV 23
+#EXTINF:-1 tvg-name="DerryTV 23" group-title="Edukasi",DerryTV 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Detroit Channel 22" group-title="Education",Detroit Channel 22
+#EXTINF:-1 tvg-name="Detroit Channel 22" group-title="Edukasi",Detroit Channel 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 
-#EXTINF:-1 tvg-name="EBS 1TV" group-title="Education",EBS 1TV
+#EXTINF:-1 tvg-name="EBS 1TV" group-title="Edukasi",EBS 1TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS 2TV" group-title="Education",EBS 2TV
+#EXTINF:-1 tvg-name="EBS 2TV" group-title="Edukasi",EBS 2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS English" group-title="Education",EBS English
+#EXTINF:-1 tvg-name="EBS English" group-title="Edukasi",EBS English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS Plus 1" group-title="Education",EBS Plus 1
+#EXTINF:-1 tvg-name="EBS Plus 1" group-title="Edukasi",EBS Plus 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="EBS Plus 2" group-title="Education",EBS Plus 2
+#EXTINF:-1 tvg-name="EBS Plus 2" group-title="Edukasi",EBS Plus 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Leominster TV Educational" group-title="Education",Leominster TV Educational
+#EXTINF:-1 tvg-name="Leominster TV Educational" group-title="Edukasi",Leominster TV Educational
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Midpen Media Channel 28" group-title="Education",Midpen Media Channel 28
+#EXTINF:-1 tvg-name="Midpen Media Channel 28" group-title="Edukasi",Midpen Media Channel 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nashua ETV" group-title="Education",Nashua ETV
+#EXTINF:-1 tvg-name="Nashua ETV" group-title="Edukasi",Nashua ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Natick Education Channel" group-title="Education",Natick Education Channel
+#EXTINF:-1 tvg-name="Natick Education Channel" group-title="Edukasi",Natick Education Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Maya" group-title="Education",TV Maya
+#EXTINF:-1 tvg-name="TV Maya" group-title="Edukasi",TV Maya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVK 2" group-title="Education",TVK 2
+#EXTINF:-1 tvg-name="TVK 2" group-title="Edukasi",TVK 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TUTV" group-title="Education",TUTV
+#EXTINF:-1 tvg-name="TUTV" group-title="Edukasi",TUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UAA TV" group-title="Education",UAA TV
+#EXTINF:-1 tvg-name="UAA TV" group-title="Edukasi",UAA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UCTV" group-title="Education",UCTV
+#EXTINF:-1 tvg-name="UCTV" group-title="Edukasi",UCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="World Channel" group-title="Education",World Channel
+#EXTINF:-1 tvg-name="World Channel" group-title="Edukasi",World Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://world.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-name="OUN (KNOU)" group-title="Education",OUN (KNOU)
+#EXTINF:-1 tvg-name="OUN (KNOU)" group-title="Edukasi",OUN (KNOU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AFV" group-title="Komedi",AFV
+#EXTINF:-1 tvg-name="AFV" group-title="Hiburan",AFV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MST3K" group-title="Komedi",MST3K
+#EXTINF:-1 tvg-name="MST3K" group-title="Hiburan",MST3K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mst3k-vizio.amagi.tv/playlist.m3u8
 
@@ -1122,439 +1110,431 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-name="Disney Channel Latin America" group-title="Anak",Disney Channel Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
-
-#EXTINF:-1 tvg-name="Allo Cine" group-title="Movie",Allo Cine
+#EXTINF:-1 tvg-name="Allo Cine" group-title="Hiburan",Allo Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 
-#EXTINF:-1 tvg-name="Cine Friki" group-title="Movie",Cine Friki
+#EXTINF:-1 tvg-name="Cine Friki" group-title="Hiburan",Cine Friki
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movie",Bhojpuri Cinema
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Hiburan",Bhojpuri Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NH Tamil Gold" group-title="Movie",NH Tamil Gold
+#EXTINF:-1 tvg-name="NH Tamil Gold" group-title="Hiburan",NH Tamil Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 
-#EXTINF:-1 tvg-name="The Movie Club +2" group-title="Movie",The Movie Club +2
+#EXTINF:-1 tvg-name="The Movie Club +2" group-title="Hiburan",The Movie Club +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
-#EXTINF:-1 tvg-name="Pitaara" group-title="Movie",Pitaara
+#EXTINF:-1 tvg-name="Pitaara" group-title="Hiburan",Pitaara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Charge!" group-title="Movie",Charge!
+#EXTINF:-1 tvg-name="Charge!" group-title="Hiburan",Charge!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
-#EXTINF:-1 tvg-name="Horoshee Kino" group-title="Movie",Horoshee Kino
+#EXTINF:-1 tvg-name="Horoshee Kino" group-title="Hiburan",Horoshee Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Movie",Smotrim 100% Klassika
+#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Hiburan",Smotrim 100% Klassika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="FilmRise Western" group-title="Movie",FilmRise Western
+#EXTINF:-1 tvg-name="FilmRise Western" group-title="Hiburan",FilmRise Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-name="WFXT-DT2" group-title="Movie",WFXT-DT2
+#EXTINF:-1 tvg-name="WFXT-DT2" group-title="Hiburan",WFXT-DT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dove Channel" group-title="Movie",Dove Channel
+#EXTINF:-1 tvg-name="Dove Channel" group-title="Hiburan",Dove Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Movie",Rakuten TV Family Movies Spain
+#EXTINF:-1 tvg-name="Rakuten TV Family Movies Spain" group-title="Hiburan",Rakuten TV Family Movies Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 
-#EXTINF:-1 tvg-name="B4U Bhojpuri" group-title="Movie",B4U Bhojpuri
+#EXTINF:-1 tvg-name="B4U Bhojpuri" group-title="Hiburan",B4U Bhojpuri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 
-#EXTINF:-1 tvg-name="Punjabi Shorts" group-title="Movie",Punjabi Shorts
+#EXTINF:-1 tvg-name="Punjabi Shorts" group-title="Hiburan",Punjabi Shorts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 
-#EXTINF:-1 tvg-name="Cine Western" group-title="Movie",Cine Western
+#EXTINF:-1 tvg-name="Cine Western" group-title="Hiburan",Cine Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 
-#EXTINF:-1 tvg-name="OuterSphere" group-title="Movie",OuterSphere
+#EXTINF:-1 tvg-name="OuterSphere" group-title="Hiburan",OuterSphere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 
-#EXTINF:-1 tvg-name="Sony One Hits Comedie" group-title="Movie",Sony One Hits Comedie
+#EXTINF:-1 tvg-name="Sony One Hits Comedie" group-title="Hiburan",Sony One Hits Comedie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rakuten TV Action Movies Germany" group-title="Movie",Rakuten TV Action Movies Germany
+#EXTINF:-1 tvg-name="Rakuten TV Action Movies Germany" group-title="Hiburan",Rakuten TV Action Movies Germany
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 
-#EXTINF:-1 tvg-name="Rakuten TV Family Movies UK" group-title="Movie",Rakuten TV Family Movies UK
+#EXTINF:-1 tvg-name="Rakuten TV Family Movies UK" group-title="Hiburan",Rakuten TV Family Movies UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
-#EXTINF:-1 tvg-name="MyTime Movie Network East" group-title="Movie",MyTime Movie Network East
+#EXTINF:-1 tvg-name="MyTime Movie Network East" group-title="Hiburan",MyTime Movie Network East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cine Sony" group-title="Movie",Cine Sony
+#EXTINF:-1 tvg-name="Cine Sony" group-title="Hiburan",Cine Sony
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sony Movies" group-title="Movie",Sony Movies
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Hiburan",Sony Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Movies! KPVM-LD" group-title="Movie",Movies! KPVM-LD
+#EXTINF:-1 tvg-name="Movies! KPVM-LD" group-title="Hiburan",Movies! KPVM-LD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FILMBOX+ Emotion Adria" group-title="Movie",FILMBOX+ Emotion Adria
+#EXTINF:-1 tvg-name="FILMBOX+ Emotion Adria" group-title="Hiburan",FILMBOX+ Emotion Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
 
-#EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Movie",FILMBOX+ Festival
+#EXTINF:-1 tvg-name="FILMBOX+ Festival" group-title="Hiburan",FILMBOX+ Festival
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
 
-#EXTINF:-1 tvg-name="FILMBOX+ Hits Adria" group-title="Movie",FILMBOX+ Hits Adria
+#EXTINF:-1 tvg-name="FILMBOX+ Hits Adria" group-title="Hiburan",FILMBOX+ Hits Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 
-#EXTINF:-1 tvg-name="FILMBOX+ Love & Crime Adria" group-title="Movie",FILMBOX+ Love & Crime Adria
+#EXTINF:-1 tvg-name="FILMBOX+ Love & Crime Adria" group-title="Hiburan",FILMBOX+ Love & Crime Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
-#EXTINF:-1 tvg-name="Cinecanal Panregional" group-title="Movie",Cinecanal Panregional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
-
-#EXTINF:-1 tvg-name="Star Cinema" group-title="Movie",Star Cinema
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Hiburan",Star Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Star Family" group-title="Movie",Star Family
+#EXTINF:-1 tvg-name="Star Family" group-title="Hiburan",Star Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Movie",My Cinema Europe
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="Hiburan",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-name="Outdoor America" group-title="Outdoor",Outdoor America
+#EXTINF:-1 tvg-name="Outdoor America" group-title="Olahraga",Outdoor America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Outside TV" group-title="Outdoor",Outside TV
+#EXTINF:-1 tvg-name="Outside TV" group-title="Olahraga",Outside TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
 
-#EXTINF:-1 tvg-name="PursuitUP" group-title="Outdoor",PursuitUP
+#EXTINF:-1 tvg-name="PursuitUP" group-title="Olahraga",PursuitUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature 4K" group-title="Outdoor",Love Nature 4K
+#EXTINF:-1 tvg-name="Love Nature 4K" group-title="Olahraga",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-name="WaterBear" group-title="Outdoor",WaterBear
+#EXTINF:-1 tvg-name="WaterBear" group-title="Olahraga",WaterBear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Horse & Country TV" group-title="Outdoor",Horse & Country TV
+#EXTINF:-1 tvg-name="Horse & Country TV" group-title="Olahraga",Horse & Country TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
-#EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Dokumenter",Al Arabiya Programs
+#EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Edukasi",Al Arabiya Programs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Court TV" group-title="Dokumenter",Court TV
+#EXTINF:-1 tvg-name="Court TV" group-title="Edukasi",Court TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-name="Deadly Women UK" group-title="Dokumenter",Deadly Women UK
+#EXTINF:-1 tvg-name="Deadly Women UK" group-title="Edukasi",Deadly Women UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 
-#EXTINF:-1 tvg-name="DocuBay TV" group-title="Dokumenter",DocuBay TV
+#EXTINF:-1 tvg-name="DocuBay TV" group-title="Edukasi",DocuBay TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Get.factual UK" group-title="Dokumenter",Get.factual UK
+#EXTINF:-1 tvg-name="Get.factual UK" group-title="Edukasi",Get.factual UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 
-#EXTINF:-1 tvg-name="Love Pets" group-title="Dokumenter",Love Pets
+#EXTINF:-1 tvg-name="Love Pets" group-title="Edukasi",Love Pets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Dokumenter",Smotrim 100% Fakty
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty" group-title="Edukasi",Smotrim 100% Fakty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
-#EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Dokumenter",Wedo Big Stories
+#EXTINF:-1 tvg-name="Wedo Big Stories" group-title="Edukasi",Wedo Big Stories
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="History Hit" group-title="Dokumenter",History Hit
+#EXTINF:-1 tvg-name="History Hit" group-title="Edukasi",History Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Nature Time" group-title="Dokumenter",Nature Time
+#EXTINF:-1 tvg-name="Nature Time" group-title="Edukasi",Nature Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RT Documentary English" group-title="Dokumenter",RT Documentary English
+#EXTINF:-1 tvg-name="RT Documentary English" group-title="Edukasi",RT Documentary English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Qwest TV" group-title="Music",Qwest TV
+#EXTINF:-1 tvg-name="Qwest TV" group-title="Musik",Qwest TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-name="XITE Hits UK" group-title="Music",XITE Hits UK
+#EXTINF:-1 tvg-name="XITE Hits UK" group-title="Musik",XITE Hits UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="YRF Music" group-title="Music",YRF Music
+#EXTINF:-1 tvg-name="YRF Music" group-title="Musik",YRF Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-name="XITE 90's Throwback" group-title="Music",XITE 90's Throwback
+#EXTINF:-1 tvg-name="XITE 90's Throwback" group-title="Musik",XITE 90's Throwback
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 
-#EXTINF:-1 tvg-name="XITE Just Chill" group-title="Music",XITE Just Chill
+#EXTINF:-1 tvg-name="XITE Just Chill" group-title="Musik",XITE Just Chill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 
-#EXTINF:-1 tvg-name="XITE Hits Netherlands" group-title="Music",XITE Hits Netherlands
+#EXTINF:-1 tvg-name="XITE Hits Netherlands" group-title="Musik",XITE Hits Netherlands
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
-#EXTINF:-1 tvg-name="Trace UK" group-title="Music",Trace UK
+#EXTINF:-1 tvg-name="Trace UK" group-title="Musik",Trace UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 
-#EXTINF:-1 tvg-name="Epic Music Digital" group-title="Music",Epic Music Digital
+#EXTINF:-1 tvg-name="Epic Music Digital" group-title="Musik",Epic Music Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Boogle Bollywood" group-title="Music",Boogle Bollywood
+#EXTINF:-1 tvg-name="Boogle Bollywood" group-title="Musik",Boogle Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-name="Songdew TV" group-title="Music",Songdew TV
+#EXTINF:-1 tvg-name="Songdew TV" group-title="Musik",Songdew TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-#EXTINF:-1 tvg-name="DASDING" group-title="Music",DASDING
+#EXTINF:-1 tvg-name="DASDING" group-title="Musik",DASDING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 
-#EXTINF:-1 tvg-name="MBC America" group-title="Music",MBC America
+#EXTINF:-1 tvg-name="MBC America" group-title="Musik",MBC America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 
-#EXTINF:-1 tvg-name="LRT Opus" group-title="Music",LRT Opus
+#EXTINF:-1 tvg-name="LRT Opus" group-title="Musik",LRT Opus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://stream-live.lrt.lt/opus/master.m3u8
 
-#EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Music",Qello Concerts by Stingray
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray" group-title="Musik",Qello Concerts by Stingray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" group-title="TV Nasional",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" group-title="TV Indonesia",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="Euronews English" group-title="World News",Euronews English
+#EXTINF:-1 tvg-name="Euronews English" group-title="Berita",Euronews English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews French" group-title="World News",Euronews French
+#EXTINF:-1 tvg-name="Euronews French" group-title="Berita",Euronews French
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews German" group-title="World News",Euronews German
+#EXTINF:-1 tvg-name="Euronews German" group-title="Berita",Euronews German
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Spanish" group-title="World News",Euronews Spanish
+#EXTINF:-1 tvg-name="Euronews Spanish" group-title="Berita",Euronews Spanish
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Italian" group-title="World News",Euronews Italian
+#EXTINF:-1 tvg-name="Euronews Italian" group-title="Berita",Euronews Italian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Portuguese" group-title="World News",Euronews Portuguese
+#EXTINF:-1 tvg-name="Euronews Portuguese" group-title="Berita",Euronews Portuguese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Greek" group-title="World News",Euronews Greek
+#EXTINF:-1 tvg-name="Euronews Greek" group-title="Berita",Euronews Greek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Hungarian" group-title="World News",Euronews Hungarian
+#EXTINF:-1 tvg-name="Euronews Hungarian" group-title="Berita",Euronews Hungarian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
-#EXTINF:-1 tvg-name="Africanews English" group-title="World News",Africanews English
+#EXTINF:-1 tvg-name="Africanews English" group-title="Berita",Africanews English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
-#EXTINF:-1 tvg-name="Africanews French" group-title="World News",Africanews French
+#EXTINF:-1 tvg-name="Africanews French" group-title="Berita",Africanews French
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-name="DW English" group-title="World News",DW English
+#EXTINF:-1 tvg-name="DW English" group-title="Berita",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-name="DW Arabic" group-title="World News",DW Arabic
+#EXTINF:-1 tvg-name="DW Arabic" group-title="Berita",DW Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 
-#EXTINF:-1 tvg-name="DW Espanol" group-title="World News",DW Espanol
+#EXTINF:-1 tvg-name="DW Espanol" group-title="Berita",DW Espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1 tvg-name="DW Russian" group-title="World News",DW Russian
+#EXTINF:-1 tvg-name="DW Russian" group-title="Berita",DW Russian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
-#EXTINF:-1 tvg-name="NHK World-Japan" group-title="Internasional",NHK World-Japan
+#EXTINF:-1 tvg-name="NHK World-Japan" group-title="Berita",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
-#EXTINF:-1 tvg-name="Canal 24 Horas Catalunya" group-title="World News",Canal 24 Horas Catalunya
+#EXTINF:-1 tvg-name="Canal 24 Horas Catalunya" group-title="Berita",Canal 24 Horas Catalunya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main.m3u8
 
-#EXTINF:-1 tvg-name="Thai PBS" group-title="TV Nasional",Thai PBS
+#EXTINF:-1 tvg-name="Thai PBS" group-title="TV Indonesia",Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal Gov" group-title="TV Nasional",Canal Gov
+#EXTINF:-1 tvg-name="Canal Gov" group-title="TV Indonesia",Canal Gov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Wafa Tarim" group-title="TV Nasional",Al Wafa Tarim
+#EXTINF:-1 tvg-name="Al Wafa Tarim" group-title="TV Indonesia",Al Wafa Tarim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://live.alwafatarim.tv/
 https://server.alwafatarim.tv/tv/hls/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Al-Iman TV" group-title="TV Nasional",Al-Iman TV
+#EXTINF:-1 tvg-name="Al-Iman TV" group-title="TV Indonesia",Al-Iman TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://aliman.id/
 https://live.aliman.id/live/livestream.m3u8
 
-#EXTINF:-1 tvg-name="Nusantara TV" group-title="TV Nasional",Nusantara TV
+#EXTINF:-1 tvg-name="Nusantara TV" group-title="TV Indonesia",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://www.nusantaratv.com/
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rodja TV" group-title="TV Nasional",Rodja TV
+#EXTINF:-1 tvg-name="Rodja TV" group-title="TV Indonesia",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://rodja.tv/
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-name="MDTV" group-title="TV Nasional",MDTV
+#EXTINF:-1 tvg-name="MDTV" group-title="TV Indonesia",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://dens.tv/tv-local
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-name="Metro TV" group-title="TV Nasional",Metro TV
+#EXTINF:-1 tvg-name="Metro TV" group-title="TV Indonesia",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Magna Channel" group-title="TV Nasional",Magna Channel
+#EXTINF:-1 tvg-name="Magna Channel" group-title="TV Indonesia",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="TV Nasional",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="TV Indonesia",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="BN Channel" group-title="TV Nasional",BN Channel
+#EXTINF:-1 tvg-name="BN Channel" group-title="TV Indonesia",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-name="VTV" group-title="TV Nasional",VTV
+#EXTINF:-1 tvg-name="VTV" group-title="TV Indonesia",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-name="RRI Net" group-title="TV Nasional",RRI Net
+#EXTINF:-1 tvg-name="RRI Net" group-title="TV Indonesia",RRI Net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 
-#EXTINF:-1 tvg-name="Iran International" group-title="World News",Iran International
+#EXTINF:-1 tvg-name="Iran International" group-title="Berita",Iran International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 
-#EXTINF:-1 tvg-name="Tagesschau24" group-title="World News",Tagesschau24
+#EXTINF:-1 tvg-name="Tagesschau24" group-title="Berita",Tagesschau24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-name="HR Fernsehen" group-title="Internasional",HR Fernsehen
+#EXTINF:-1 tvg-name="HR Fernsehen" group-title="Berita",HR Fernsehen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 
-#EXTINF:-1 tvg-name="Arirang World" group-title="Internasional",Arirang World
+#EXTINF:-1 tvg-name="Arirang World" group-title="Berita",Arirang World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="National Assembly TV Korea" group-title="Internasional",National Assembly TV Korea
+#EXTINF:-1 tvg-name="National Assembly TV Korea" group-title="Berita",National Assembly TV Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://w-assembly.hscdn.com/assembly/natv_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Internasional",Dong Nai TV 2
+#EXTINF:-1 tvg-name="Dong Nai TV 2" group-title="Berita",Dong Nai TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 
-#EXTINF:-1 tvg-name="TV Familia" group-title="Internasional",TV Familia
+#EXTINF:-1 tvg-name="TV Familia" group-title="Berita",TV Familia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Azteca Honduras" group-title="Internasional",Azteca Honduras
+#EXTINF:-1 tvg-name="Azteca Honduras" group-title="Berita",Azteca Honduras
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
-#EXTINF:-1 tvg-name="Canal 24 Horas" group-title="World News",Canal 24 Horas
+#EXTINF:-1 tvg-name="Canal 24 Horas" group-title="Berita",Canal 24 Horas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-name="FOX Live Now" group-title="World News",FOX Live Now
+#EXTINF:-1 tvg-name="FOX Live Now" group-title="Berita",FOX Live Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Newsmax TV" group-title="World News",Newsmax TV
+#EXTINF:-1 tvg-name="Newsmax TV" group-title="Berita",Newsmax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC 12 Milwaukee WI" group-title="World News",ABC 12 Milwaukee WI
+#EXTINF:-1 tvg-name="ABC 12 Milwaukee WI" group-title="Berita",ABC 12 Milwaukee WI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Russian" group-title="World News",Euronews Russian
+#EXTINF:-1 tvg-name="Euronews Russian" group-title="Berita",Euronews Russian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky News International" group-title="World News",Sky News International
+#EXTINF:-1 tvg-name="Sky News International" group-title="Berita",Sky News International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
