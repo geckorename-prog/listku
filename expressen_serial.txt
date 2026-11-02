@@ -1,0 +1,7 @@
+Uji serial 1 channel x 3 percobaan
+Kontrol awal: lolos | Kontrol akhir: lolos
+
+[SEHAT] Expressen TV (Berita) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206

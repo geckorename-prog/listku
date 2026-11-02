@@ -1516,4 +1516,7 @@ https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/mas
 #EXTINF:-1 tvg-name="CBS News 24/7" group-title="Berita",CBS News 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="Expressen TV" group-title="Berita",Expressen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 
