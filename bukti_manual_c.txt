@@ -1,0 +1,12 @@
+
+== MRTV Sports :: https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=None
+   coba1: HTTP 200 | #EXTM3U #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=19
+   coba2: HTTP 000 |  
+   coba3: HTTP 000 |  
+
+== RRI Net :: https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=None
+   coba1: HTTP 404 | {"code":404,"message":"File not found","details":["/6f77c7b5-feb2-4935
+   coba2: HTTP 404 | {"code":404,"message":"File not found","details":["/6f77c7b5-feb2-4935
+   coba3: HTTP 404 | {"code":404,"message":"File not found","details":["/6f77c7b5-feb2-4935

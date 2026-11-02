@@ -1,0 +1,4 @@
+KONTROL Fox Sports News|Olahraga|https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+KONTROL NBC Sports NOW|Olahraga|https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+KONTROL FloHockey|Olahraga|https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+KONTROL KTV Sport|Olahraga|https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8

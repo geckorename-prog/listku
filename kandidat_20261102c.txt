@@ -1,0 +1,7 @@
+TVR Sport|Olahraga|https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+Monterrico TV|Olahraga|https://h.jcp.live.opencaster.com/play_src/index.m3u8
+ACI Sport TV|Olahraga|https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+MRTV Sports|Olahraga|https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+Eurosport|Olahraga|https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+Sport TV|Olahraga|https://media1.skifnet.by/sporttv/index.m3u8
+RRI Net|TV Indonesia|https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8

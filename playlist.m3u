@@ -1220,6 +1220,7 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Hiburan",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+
 #EXTINF:-1 tvg-name="The Wicked Tuna Channel" group-title="Hiburan",The Wicked Tuna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
@@ -1247,6 +1248,7 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-name="Horse & Country TV" group-title="Olahraga",Horse & Country TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
 #EXTINF:-1 tvg-name="BEK TV Sports West" group-title="Olahraga",BEK TV Sports West
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -1310,6 +1312,7 @@ https://media1.skifnet.by/sporttv/index.m3u8
 #EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-name="AntenaPlay Events" group-title="Olahraga",AntenaPlay Events
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
@@ -1329,10 +1332,6 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-name="ACI Sport TV" group-title="Olahraga",ACI Sport TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
-#EXTINF:-1 tvg-name="MRTV Sports" group-title="Olahraga",MRTV Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 
 #EXTINF:-1 tvg-name="Turf Movil" group-title="Olahraga",Turf Movil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1552,10 +1551,6 @@ https://flv.intechmedia.net/live/ch112.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-name="RRI Net" group-title="TV Indonesia",RRI Net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
-
 #EXTINF:-1 tvg-name="Iran International" group-title="Berita",Iran International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
@@ -1611,10 +1606,11 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Sky News International" group-title="Berita",Sky News International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+
 #EXTINF:-1 tvg-name="CBS News 24/7" group-title="Berita",CBS News 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 #EXTINF:-1 tvg-name="Expressen TV" group-title="Berita",Expressen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-
