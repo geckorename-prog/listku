@@ -1510,3 +1510,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Sky News International" group-title="Berita",Sky News International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" group-title="Berita",CBS News 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
