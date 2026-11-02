@@ -1643,4 +1643,7 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Palm Beaches TV" group-title="Internasional",Palm Beaches TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-name="Persiana Voyage" group-title="Internasional",Persiana Voyage
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://voyhls.persiana.live/hls/stream.m3u8
 
