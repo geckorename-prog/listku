@@ -1,0 +1,47 @@
+Uji serial 11 channel x 3 percobaan
+Kontrol awal: lolos | Kontrol akhir: lolos
+
+[DEAD] Duta TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[SEHAT] More Than Sports TV (Olahraga) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[DEAD] Midpen Media Channel 28 (Edukasi) gagal 3/3
+      1: X manifest 200 segmen gagal
+      2: X manifest 200 segmen gagal
+      3: X manifest 200 segmen gagal
+[DEAD] Nusantara TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[DEAD] Rodja TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[SEHAT] Angel TV Indonesia (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Angel TV Indonesia (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Red Bull TV (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] BATV Educational (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] DerryTV 23 (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] TV Maya (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206

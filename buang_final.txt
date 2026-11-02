@@ -1,0 +1,5 @@
+Duta TV|TV Indonesia|https://dutatv.siar.us/dutatv/live/playlist.m3u8
+More Than Sports TV|Olahraga|https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+Midpen Media Channel 28|Edukasi|https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+Nusantara TV|TV Indonesia|https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+Rodja TV|TV Indonesia|https://rodjatv.com/rodjatv/live.m3u8

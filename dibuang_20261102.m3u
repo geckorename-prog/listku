@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Duta TV" group-title="TV Indonesia",Duta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://dutatv.com/
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="More Than Sports TV" group-title="Olahraga",More Than Sports TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Midpen Media Channel 28" group-title="Edukasi",Midpen Media Channel 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nusantara TV" group-title="TV Indonesia",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://www.nusantaratv.com/
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rodja TV" group-title="TV Indonesia",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://rodja.tv/
+https://rodjatv.com/rodjatv/live.m3u8
+

@@ -1,0 +1,30 @@
+
+== Duta TV :: https://dutatv.siar.us/dutatv/live/playlist.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=https://dutatv.com/
+   coba1: HTTP 404 | <html> <head> <link rel="preconnect" href="https://fonts
+   coba2: HTTP 404 | <html> <head> <link rel="preconnect" href="https://fonts
+   coba3: HTTP 404 | <html> <head> <link rel="preconnect" href="https://fonts
+
+== More Than Sports TV :: https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=None
+   coba1: HTTP 404 | <html><head><title>Not found</title></head><body>Not found</body></htm
+   coba2: HTTP 404 | <html><head><title>Not found</title></head><body>Not found</body></htm
+   coba3: HTTP 404 | <html><head><title>Not found</title></head><body>Not found</body></htm
+
+== Midpen Media Channel 28 :: https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=None
+   coba1: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=5251072,CODECS="a
+   coba2: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=5251072,CODECS="a
+   coba3: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-STREAM-INF:BANDWIDTH=5251072,CODECS="a
+
+== Nusantara TV :: https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=https://www.nusantaratv.com/
+   coba1: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:308 #EXT-X-TARGETDURATI
+   coba2: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:309 #EXT-X-TARGETDURATI
+   coba3: HTTP 200 | #EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:310 #EXT-X-TARGETDURATI
+
+== Rodja TV :: https://rodjatv.com/rodjatv/live.m3u8
+   UA=Mozilla/5.0 (Linux; Android 16) REF=https://rodja.tv/
+   coba1: HTTP 404 | <html> <head><title>404 Not Found</title></head> <body> <center><h1
+   coba2: HTTP 404 | <html> <head><title>404 Not Found</title></head> <body> <center><h1
+   coba3: HTTP 404 | <html> <head><title>404 Not Found</title></head> <body> <center><h1

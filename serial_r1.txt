@@ -1,0 +1,63 @@
+Uji serial 15 channel x 3 percobaan
+Kontrol awal: lolos | Kontrol akhir: lolos
+
+[SEHAT] South Station (Hiburan) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] TUTV (Edukasi) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Pitaara (Hiburan) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Punjabi Shorts (Hiburan) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Al-Iman TV (TV Indonesia) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[DEAD] Duta TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[DEAD] More Than Sports TV (Olahraga) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 200 segmen gagal
+      3: X manifest 404 bukan HLS
+[DEAD] Midpen Media Channel 28 (Edukasi) gagal 3/3
+      1: X manifest 200 segmen gagal
+      2: X manifest 200 segmen gagal
+      3: X manifest 200 segmen gagal
+[DEAD] Nusantara TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[DEAD] Rodja TV (TV Indonesia) gagal 3/3
+      1: X manifest 404 bukan HLS
+      2: X manifest 404 bukan HLS
+      3: X manifest 404 bukan HLS
+[FLAKY] Angel TV Indonesia (KONTROL) gagal 1/3
+      1: X manifest 504 bukan HLS
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] Red Bull TV (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] BATV Educational (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] DerryTV 23 (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+[SEHAT] TV Maya (KONTROL) gagal 0/3
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206

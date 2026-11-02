@@ -228,11 +228,6 @@ https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dhammaweb.tv/
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-name="Duta TV" group-title="TV Indonesia",Duta TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://dutatv.com/
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-name="KSTV" group-title="TV Indonesia",KSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://kstv.co.id/
@@ -566,10 +561,6 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-name="MUTV" group-title="Olahraga",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-name="More Than Sports TV" group-title="Olahraga",More Than Sports TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-name="QazSport" group-title="Olahraga",QazSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1042,10 +1033,6 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Midpen Media Channel 28" group-title="Edukasi",Midpen Media Channel 28
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Nashua ETV" group-title="Edukasi",Nashua ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -1443,16 +1430,6 @@ https://server.alwafatarim.tv/tv/hls/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://aliman.id/
 https://live.aliman.id/live/livestream.m3u8
-
-#EXTINF:-1 tvg-name="Nusantara TV" group-title="TV Indonesia",Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://www.nusantaratv.com/
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rodja TV" group-title="TV Indonesia",Rodja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://rodja.tv/
-https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-name="MDTV" group-title="TV Indonesia",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
