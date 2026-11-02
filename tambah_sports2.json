@@ -1,0 +1,11 @@
+[
+ {"name":"AntenaPlay Events","group":"Olahraga","url":"https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"},
+ {"name":"NHL AntenaPlay","group":"Olahraga","url":"https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"},
+ {"name":"Astrahan.Ru Sport","group":"Olahraga","url":"https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"},
+ {"name":"Monterrico TV","group":"Olahraga","url":"https://h.jcp.live.opencaster.com/play_src/index.m3u8"},
+ {"name":"ACI Sport TV","group":"Olahraga","url":"https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"},
+ {"name":"MRTV Sports","group":"Olahraga","url":"https://mrtvott.com/cache/MRTV-SPORT/master.m3u8"},
+ {"name":"Turf Movil","group":"Olahraga","url":"https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="},
+ {"name":"CDN Deportes","group":"Olahraga","url":"https://hls.tvabierta.net/hls/036.m3u8"},
+ {"name":"Eurosport","group":"Olahraga","url":"https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"}
+]

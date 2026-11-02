@@ -1310,6 +1310,41 @@ https://media1.skifnet.by/sporttv/index.m3u8
 #EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-name="AntenaPlay Events" group-title="Olahraga",AntenaPlay Events
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
+#EXTINF:-1 tvg-name="NHL AntenaPlay" group-title="Olahraga",NHL AntenaPlay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+
+#EXTINF:-1 tvg-name="Astrahan.Ru Sport" group-title="Olahraga",Astrahan.Ru Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Monterrico TV" group-title="Olahraga",Monterrico TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+
+#EXTINF:-1 tvg-name="ACI Sport TV" group-title="Olahraga",ACI Sport TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 tvg-name="MRTV Sports" group-title="Olahraga",MRTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+
+#EXTINF:-1 tvg-name="Turf Movil" group-title="Olahraga",Turf Movil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+
+#EXTINF:-1 tvg-name="CDN Deportes" group-title="Olahraga",CDN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://hls.tvabierta.net/hls/036.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport" group-title="Olahraga",Eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Edukasi",Al Arabiya Programs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
