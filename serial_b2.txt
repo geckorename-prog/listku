@@ -1,0 +1,84 @@
+Uji serial 9 channel x 8 percobaan
+Kontrol awal: lolos | Kontrol akhir: lolos
+
+[SEHAT] QazSport (Olahraga) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[DEAD] Al-Iman TV (TV Indonesia) gagal 8/8
+      1: X manifest 404 body kosong/blocked
+      2: X manifest 404 body kosong/blocked
+      3: X manifest 404 body kosong/blocked
+      4: X manifest 404 body kosong/blocked
+      5: X manifest 404 body kosong/blocked
+      6: X manifest 404 body kosong/blocked
+      7: X manifest 404 body kosong/blocked
+      8: X manifest 404 body kosong/blocked
+[SEHAT] Gravitas Movies (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] TV Tabalong (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] Ahsan TV (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] Angel TV Indonesia (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] ADN TV+ (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] Gravitas Movies (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206
+[SEHAT] Red Bull TV (KONTROL) gagal 0/8
+      1: OK manifest 200 seg 206
+      2: OK manifest 200 seg 206
+      3: OK manifest 200 seg 206
+      4: OK manifest 200 seg 206
+      5: OK manifest 200 seg 206
+      6: OK manifest 200 seg 206
+      7: OK manifest 200 seg 206
+      8: OK manifest 200 seg 206

@@ -1,0 +1,48 @@
+Yu-Gi-Oh!|Anak|https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+Banijay Mr Bean Animé|Anak|https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+American Ninja Warrior|Olahraga|https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042
+FUEL TV Europe|Olahraga|https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+FloHockey|Olahraga|https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+Stadium|Olahraga|https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+Tennis Channel|Olahraga|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+Azteca Deportes Network|Olahraga|https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+Belarus-5|Olahraga|https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+Fast&FunBox|Olahraga|https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+Golf Channel|Olahraga|https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+QazSport|Olahraga|https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+Red Bull TV AU|Olahraga|https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+Red Bull TV ES|Olahraga|https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+Red Bull TV US|Olahraga|https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+Sporty TV|Olahraga|https://dash2.antik.sk/live/sporty_tv/index.m3u8
+TVR Sport|Olahraga|https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+KTV|Berita|https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+ScreamIN|Hiburan|https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+STS|Hiburan|https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+STS Love|Hiburan|https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+America TeVe|Hiburan|https://live.gideo.video/americateve2/master.m3u8
+In the Kitchen|Hiburan|https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+bon appetit|Hiburan|https://bonappetit-samsung.amagi.tv/playlist.m3u8
+Dens Food Channel|Hiburan|https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+Gusto TV|Hiburan|https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+ducktv|Anak|https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+Chamame TV|Musik|https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+Now 70s|Musik|https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
+Epic Kids Digital|Anak|https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+Iunior TV|Anak|https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+Kartoon Channel!|Anak|https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+KiKA|Anak|https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+Rakuten TV Family Movies UK|Hiburan|https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+Inter TV|Olahraga|https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+NHL Network|Olahraga|https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+Telemundo Desportes Ahora|Olahraga|https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+NBS Korea Agriculture TV|Hiburan|https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+EBS Kids|Anak|https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+City TV|Musik|https://tv.city.bg/play/tshls/citytv/index.m3u8
+Clubbing TV UK|Musik|https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+Atfal & Mawaheb TV|Anak|https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+Hitradio O3|Musik|https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+Kiss Kiss TV|Musik|https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+Boing|Anak|https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+POP World TV|Musik|https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+Extrema Kids TV|Anak|https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+Al-Iman TV|TV Indonesia|https://live.aliman.id/live/livestream.m3u8

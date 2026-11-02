@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Al-Iman TV" group-title="TV Indonesia",Al-Iman TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+#EXTVLCOPT:http-referrer=https://aliman.id/
+https://live.aliman.id/live/livestream.m3u8
+

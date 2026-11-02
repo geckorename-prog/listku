@@ -1426,11 +1426,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTVLCOPT:http-referrer=https://live.alwafatarim.tv/
 https://server.alwafatarim.tv/tv/hls/live/index.m3u8
 
-#EXTINF:-1 tvg-name="Al-Iman TV" group-title="TV Indonesia",Al-Iman TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://aliman.id/
-https://live.aliman.id/live/livestream.m3u8
-
 #EXTINF:-1 tvg-name="MDTV" group-title="TV Indonesia",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://dens.tv/tv-local
