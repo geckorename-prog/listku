@@ -316,10 +316,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-name="Yu-Gi-Oh!" group-title="Anak",Yu-Gi-Oh!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Banijay Mr Bean Animé" group-title="Anak",Banijay Mr Bean Animé
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
@@ -376,10 +372,6 @@ https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="FUEL TV APAC" group-title="Olahraga",FUEL TV APAC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-name="FUEL TV Europe" group-title="Olahraga",FUEL TV Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 
 #EXTINF:-1 tvg-name="Fight Network" group-title="Olahraga",Fight Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -469,10 +461,6 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Stadium" group-title="Olahraga",Stadium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Swerve Combat" group-title="Olahraga",Swerve Combat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
@@ -548,10 +536,6 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-name="MUTV" group-title="Olahraga",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-name="QazSport" group-title="Olahraga",QazSport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV AU" group-title="Olahraga",Red Bull TV AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -693,10 +677,6 @@ https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Racer Network" group-title="Olahraga",Racer Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Racer Select" group-title="Olahraga",Racer Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
@@ -760,10 +740,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-dist
 #EXTINF:-1 tvg-name="Hi-YAH!" group-title="Hiburan",Hi-YAH!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Star Vijay UK" group-title="Hiburan",Star Vijay UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AMG TV" group-title="Hiburan",AMG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1036,10 +1012,6 @@ https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UCTV" group-title="Edukasi",UCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="World Channel" group-title="Edukasi",World Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://world.lls.pbs.org/index.m3u8
@@ -1259,10 +1231,6 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 tvg-name="ORF Sport+" group-title="Olahraga",ORF Sport+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-name="AntenaPlay Events" group-title="Olahraga",AntenaPlay Events
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1562,10 +1530,6 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mr. Bean Anime Italy" group-title="Animasi",Mr. Bean Anime Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animasi",Spacetoon Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
@@ -1614,10 +1578,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MyTime Movie Network" group-title="Movie",MyTime Movie Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Cinecanal" group-title="Movie",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
@@ -1637,16 +1597,19 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Family" group-title="Movie",Star Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="INTRAVEL Philippines" group-title="Internasional",INTRAVEL Philippines
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Palm Beaches TV" group-title="Internasional",Palm Beaches TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.feed.thepalmbeaches.tv/index.m3u8
+
 #EXTINF:-1 tvg-name="Persiana Voyage" group-title="Internasional",Persiana Voyage
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://voyhls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-name="Schladming-Dachstein TV" group-title="Internasional",Schladming-Dachstein TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-
