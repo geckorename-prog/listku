@@ -1,0 +1,38 @@
+cast.talenttv.lk | Talent TV
+cdn.bestream.io | Prime
+cdn.rabta.stream | M Sports
+cnn.livestreaminggroup.info:3132 | Colimdo TV
+dai.google.com | CBS Sports Golazo Network
+distribution.sportitalialive.it | Lazio Style Channel, Sportitalia Solocalcio
+drk6xq0vhn.gpcdn.net | Eurosport
+fighthls.persiana.live | Persiana Fight
+flussonic.linkintel.ru | Match! Ultra 4K
+freecast-lukentvlive.vgcdn.net | REV'N Action
+h.jcp.live.opencaster.com | Monterrico TV
+hls.tvabierta.net | CDN Deportes
+imn-live.esite-lab.com | Al Iraqia Sport
+live-04-11-tyc-app-web.vodgc.net | TyC Sports
+live-3.otcnet.ru | Sportivnyy
+live-aburayhan1106.telewebion.ir | IRIB UHD
+live-embed.supertennix.hiway.media | SuperTennis
+live-us1.thaimomo.com | T Sports 7
+live1.acangroup.org:1929 | CRTV Sports and Entertainment
+live4dai.antenaplay.ro | AntenaPlay Events, NHL AntenaPlay
+livetr.teleromagna.it | TR Sport
+lukentvlive.vgcdn.net | REV'N Action, Unbeaten
+master.tucableip.com | FTV
+mrtvott.com | MRTV Sports
+propee33f9c2.airspace-cdn.cbsivideo.com | CBS Sports HQ
+real-vk.proxy.nellaiiptv.com | Star Sports 2 Telugu
+samitaorigin.tangotv.in | Kabaddi 24x7
+srvx1.selftv.video | MadeinBO TV
+streaming.astrakhan.ru | Astrahan.Ru Sport
+streaming.thestream.cyou | Belarus-5
+streamtv.as3sport.online:3394 | AS3 Sport TV
+strhls.streamakaci.tv | ADO TV
+tvsen5.aynaott.com | Willow
+tvsen5.aynascope.net | Willow
+tvsen7.aynascope.net | Star Sports Select 2, Willow
+tvturf4.janus.cl | Turf Movil
+vip-acasatv.online:25463 | Voyo Sport 1
+webstream.multistream.it | ACI Sport TV

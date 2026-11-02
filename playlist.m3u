@@ -1247,6 +1247,69 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-name="Horse & Country TV" group-title="Olahraga",Horse & Country TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-name="BEK TV Sports West" group-title="Olahraga",BEK TV Sports West
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD Sports" group-title="Olahraga",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-name="DraftKings Network" group-title="Olahraga",DraftKings Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 Latin America South" group-title="Olahraga",ESPN 2 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 Latin America South" group-title="Olahraga",ESPN 3 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 Latin America South" group-title="Olahraga",ESPN 4 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5 Latin America South" group-title="Olahraga",ESPN 5 Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6 Latin America" group-title="Olahraga",ESPN 6 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7 Latin America" group-title="Olahraga",ESPN 7 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Latin America South" group-title="Olahraga",ESPN Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" group-title="Olahraga",FB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="InTrouble" group-title="Olahraga",InTrouble
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MLB" group-title="Olahraga",MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORF Sport+" group-title="Olahraga",ORF Sport+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV" group-title="Olahraga",Sport TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://media1.skifnet.by/sporttv/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Edukasi",Al Arabiya Programs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)

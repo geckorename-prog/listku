@@ -1,0 +1,20 @@
+BEK TV Sports West|Olahraga|https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+DD Sports|Olahraga|https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+DraftKings Network|Olahraga|https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+ESPN 2 Latin America South|Olahraga|https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+ESPN 3 Latin America South|Olahraga|https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+ESPN 4 Latin America South|Olahraga|https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+ESPN 5 Latin America South|Olahraga|https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+ESPN 6 Latin America|Olahraga|https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+ESPN 7 Latin America|Olahraga|https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+ESPN Latin America South|Olahraga|https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+FB TV|Olahraga|https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+InTrouble|Olahraga|https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+MLB|Olahraga|https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+ORF Sport+|Olahraga|https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+Sport TV|Olahraga|https://media1.skifnet.by/sporttv/index.m3u8
+Sportitalia|Olahraga|https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+KONTROL FloHockey (amagi)|Olahraga|https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+KONTROL NBC Sports NOW (cloudfront)|Olahraga|https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+KONTROL ACC Digital Network (tubi)|Olahraga|https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
+KONTROL Rally TV (akamai)|Olahraga|https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8

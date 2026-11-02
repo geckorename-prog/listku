@@ -1,0 +1,130 @@
+[
+ {
+  "name": "BEK TV Sports West",
+  "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+  "country": "us",
+  "nanoid": "SxEZ67YPc8yPDE",
+  "host": "cdn3.wowza.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "DD Sports",
+  "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+  "country": "in",
+  "nanoid": "cRWaAoFcT7OCt9",
+  "host": "d3qs3d2rkhfqrt.cloudfront.net",
+  "host_dikenal": false
+ },
+ {
+  "name": "DraftKings Network",
+  "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+  "country": "us",
+  "nanoid": "KGBMTUYjkdpD8D",
+  "host": "na.linear.zype.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 2 Latin America South",
+  "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+  "country": "us",
+  "nanoid": "K4gCMwVvrAHvnE",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 3 Latin America South",
+  "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+  "country": "us",
+  "nanoid": "W28Jd3TqNwX9HO",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 4 Latin America South",
+  "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+  "country": "us",
+  "nanoid": "Ki9COGLAwDPKRW",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 5 Latin America South",
+  "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+  "country": "us",
+  "nanoid": "1WHaEbYGiz58DP",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 6 Latin America",
+  "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+  "country": "us",
+  "nanoid": "v2qKNxAvkzM3Zo",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN 7 Latin America",
+  "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+  "country": "us",
+  "nanoid": "Uw5R84bpvu86BH",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "ESPN Latin America South",
+  "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+  "country": "us",
+  "nanoid": "GEM2gcqSAoqcNK",
+  "host": "barinaslive1.boldmss.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "FB TV",
+  "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+  "country": "tr",
+  "nanoid": "SSm48TGJZ2ZZyq",
+  "host": "1hskrdto.rocketcdn.com",
+  "host_dikenal": false
+ },
+ {
+  "name": "InTrouble",
+  "url": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+  "country": "nl",
+  "nanoid": "YJ0VLCpIyYcZ5V",
+  "host": "amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv",
+  "host_dikenal": false
+ },
+ {
+  "name": "MLB",
+  "url": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+  "country": "us",
+  "nanoid": "trjvtLbixg6iUs",
+  "host": "aegis-cloudfront-1.tubi.video",
+  "host_dikenal": true
+ },
+ {
+  "name": "ORF Sport+",
+  "url": "https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8",
+  "country": "at",
+  "nanoid": "XsUPyQVunJWRF7",
+  "host": "test02.mdn.ors.at",
+  "host_dikenal": false
+ },
+ {
+  "name": "Sport TV",
+  "url": "https://media1.skifnet.by/sporttv/index.m3u8",
+  "country": "by",
+  "nanoid": "X52MQmppYpmBGG",
+  "host": "media1.skifnet.by",
+  "host_dikenal": false
+ },
+ {
+  "name": "Sportitalia",
+  "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
+  "country": "it",
+  "nanoid": "e4huLQp9M80Lrf",
+  "host": "amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv",
+  "host_dikenal": false
+ }
+]
