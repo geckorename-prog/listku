@@ -1,0 +1,13 @@
+AntenaPlay Events|Olahraga|https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+NHL AntenaPlay|Olahraga|https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+TR Sport (Teleromagna)|Olahraga|https://livetr.teleromagna.it/mia/live/playlist.m3u8
+Astrahan.Ru Sport|Olahraga|https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+Monterrico TV|Olahraga|https://h.jcp.live.opencaster.com/play_src/index.m3u8
+ACI Sport TV|Olahraga|https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+MRTV Sports|Olahraga|https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+Turf Movil|Olahraga|https://tvturf4.janus.cl/playlist/stream.m3u8
+CDN Deportes|Olahraga|https://hls.tvabierta.net/hls/036.m3u8
+FTV Bolivia|Olahraga|https://master.tucableip.com/ftvhd/index.m3u8
+Eurosport (gpcdn)|Olahraga|https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+KONTROL FloHockey (amagi)|Olahraga|https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+KONTROL NBC Sports NOW (cloudfront)|Olahraga|https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
