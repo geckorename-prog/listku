@@ -1581,3 +1581,71 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animasi",Spacetoon Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 tvg-name="Asianet Movies" group-title="Movie",Asianet Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Cine Romantico" group-title="Movie",Cine Romantico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
+
+#EXTINF:-1 tvg-name="Shubh Cinema TV" group-title="Movie",Shubh Cinema TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony One Favoris" group-title="Movie",Sony One Favoris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony One Hits Action" group-title="Movie",Sony One Hits Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Maa Movies" group-title="Movie",Star Maa Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-name="Wu Tang Collection" group-title="Movie",Wu Tang Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+
+#EXTINF:-1 tvg-name="Zee Cinema" group-title="Movie",Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-name="Maverick Black Cinema" group-title="Movie",Maverick Black Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine Nanar" group-title="Movie",Cine Nanar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KCM" group-title="Movie",KCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MyTime Movie Network" group-title="Movie",MyTime Movie Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cinecanal" group-title="Movie",Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+
+#EXTINF:-1 tvg-name="FilmUA Live" group-title="Movie",FilmUA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FilmUADrama" group-title="Movie",FilmUADrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Cinema" group-title="Movie",Star Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Star Family" group-title="Movie",Star Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
