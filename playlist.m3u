@@ -228,11 +228,6 @@ https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dhammaweb.tv/
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-name="KSTV" group-title="TV Indonesia",KSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://kstv.co.id/
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Rajawali TV" group-title="TV Indonesia",Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://www.rtv.co.id/
@@ -259,10 +254,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bungo TV" group-title="TV Indonesia",Bungo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kilisuci TV" group-title="TV Indonesia",Kilisuci TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MQTV" group-title="TV Indonesia",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1301,10 +1292,6 @@ https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hls.tvabierta.net/hls/036.m3u8
 
-#EXTINF:-1 tvg-name="Eurosport" group-title="Olahraga",Eurosport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-
 #EXTINF:-1 tvg-name="Al Arabiya Programs" group-title="Edukasi",Al Arabiya Programs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
@@ -1570,6 +1557,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-name="Expressen TV" group-title="Berita",Expressen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Animasi",Mr. Bean Anime Spain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
@@ -1581,6 +1569,7 @@ https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Animasi",Spacetoon Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+
 #EXTINF:-1 tvg-name="Asianet Movies" group-title="Movie",Asianet Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
@@ -1648,4 +1637,3 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Family" group-title="Movie",Star Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-
