@@ -1220,6 +1220,9 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Hiburan",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-name="The Wicked Tuna Channel" group-title="Hiburan",The Wicked Tuna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Outdoor America" group-title="Olahraga",Outdoor America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
