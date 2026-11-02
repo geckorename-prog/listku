@@ -526,10 +526,6 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Africa 24 Sport" group-title="Olahraga",Africa 24 Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
 #EXTINF:-1 tvg-name="Azteca Deportes Network" group-title="Olahraga",Azteca Deportes Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
@@ -590,10 +586,6 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tjktv-live.tjk.org/tjktv.m3u8
 
-#EXTINF:-1 tvg-name="TVR Sport" group-title="Olahraga",TVR Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ATXN1" group-title="Berita",ATXN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
@@ -613,10 +605,6 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-name="Epic Bhojpuri Digital" group-title="Hiburan",Epic Bhojpuri Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cypress Channel 36" group-title="Berita",Cypress Channel 36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MovieSphere UK" group-title="Hiburan",MovieSphere UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1089,10 +1077,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-name="Radost Moya" group-title="Anak",Radost Moya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Disney Jr. Latin America South" group-title="Anak",Disney Jr. Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1128,10 +1112,6 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-name="Horoshee Kino" group-title="Hiburan",Horoshee Kino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Smotrim 100% Klassika" group-title="Hiburan",Smotrim 100% Klassika
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="FilmRise Western" group-title="Hiburan",FilmRise Western
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1209,14 +1189,6 @@ https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 
-#EXTINF:-1 tvg-name="Star Cinema" group-title="Hiburan",Star Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Star Family" group-title="Hiburan",Star Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="Hiburan",My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
@@ -1236,10 +1208,6 @@ https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-name="PursuitUP" group-title="Olahraga",PursuitUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Love Nature 4K" group-title="Olahraga",Love Nature 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 tvg-name="WaterBear" group-title="Olahraga",WaterBear
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1268,10 +1236,6 @@ https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 Latin America South" group-title="Olahraga",ESPN 3 Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 4 Latin America South" group-title="Olahraga",ESPN 4 Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 5 Latin America South" group-title="Olahraga",ESPN 5 Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1304,10 +1268,6 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 #EXTINF:-1 tvg-name="ORF Sport+" group-title="Olahraga",ORF Sport+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
-
-#EXTINF:-1 tvg-name="Sport TV" group-title="Olahraga",Sport TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://media1.skifnet.by/sporttv/index.m3u8
 
 #EXTINF:-1 tvg-name="Sportitalia" group-title="Olahraga",Sportitalia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1602,10 +1562,6 @@ https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playl
 #EXTINF:-1 tvg-name="Euronews Russian" group-title="Berita",Euronews Russian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky News International" group-title="Berita",Sky News International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
 
 #EXTINF:-1 tvg-name="CBS News 24/7" group-title="Berita",CBS News 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
