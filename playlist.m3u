@@ -1537,6 +1537,9 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Mr. Bean Animated" group-title="Anak",Mr. Bean Animated
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-name="NickOnline" group-title="Anak",NickOnline
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://x1colegal.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Asianet Movies" group-title="Hiburan",Asianet Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
