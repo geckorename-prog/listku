@@ -1004,14 +1004,6 @@ https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TUTV" group-title="Edukasi",TUTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="UAA TV" group-title="Edukasi",UAA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="World Channel" group-title="Edukasi",World Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://world.lls.pbs.org/index.m3u8
