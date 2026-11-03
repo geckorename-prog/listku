@@ -1605,3 +1605,10 @@ https://voyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Schladming-Dachstein TV" group-title="Berita",Schladming-Dachstein TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO East" group-title="Hiburan",HBO East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tvsen7.aynascope.net/hbo/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Hits East" group-title="Hiburan",HBO Hits East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tvsen7.aynascope.net/hbo2/index.m3u8
