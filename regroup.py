@@ -16,6 +16,7 @@ MAP = {
     "TV Nasional": "TV Indonesia",
     "TVRI Daerah": "TV Indonesia",
     "TV Daerah": "TV Indonesia",
+    "TV Indonesia": "TV Indonesia",
     "Hiburan": "Hiburan",
     "Movie": "Hiburan",
     "Komedi": "Hiburan",
@@ -25,12 +26,15 @@ MAP = {
     "Olahraga": "Olahraga",
     "Otomotif": "Olahraga",
     "Outdoor": "Olahraga",
+    "Berita": "Berita",
     "World News": "Berita",
     "Business": "Berita",
     "Internasional": "Berita",
+    "Edukasi": "Edukasi",
     "Education": "Edukasi",
     "Dokumenter": "Edukasi",
     "Culture": "Edukasi",
+    "Musik": "Musik",
     "Music": "Musik",
 }
 
