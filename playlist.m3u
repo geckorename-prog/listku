@@ -1531,6 +1531,9 @@ https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-name="Botflix TV" group-title="Anak",Botflix TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://hls.botflix.tv/tv/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network India" group-title="Anak",Cartoon Network India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Asianet Movies" group-title="Hiburan",Asianet Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
