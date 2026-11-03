@@ -29,7 +29,7 @@ MAP = {
     "Berita": "Berita",
     "World News": "Berita",
     "Business": "Berita",
-    "Internasional": "Berita",
+    "Internasional": "Hiburan",
     "Edukasi": "Edukasi",
     "Education": "Edukasi",
     "Dokumenter": "Edukasi",
