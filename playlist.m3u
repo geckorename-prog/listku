@@ -1615,3 +1615,6 @@ https://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-name="HBO Hits East" group-title="Hiburan",HBO Hits East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-name="Travel TV" group-title="Internasional",Travel TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://streamer103.neterra.tv/travel/live.m3u8
