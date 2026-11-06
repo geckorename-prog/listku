@@ -213,11 +213,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ashiil TV" group-title="TV Indonesia",Ashiil TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-#EXTVLCOPT:http-referrer=https://ashiil.tv/
-https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="BMS TV" group-title="TV Indonesia",BMS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 #EXTVLCOPT:http-referrer=https://bmstv.id/
@@ -392,10 +387,6 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="HBCU-GO Sports" group-title="Olahraga",HBCU-GO Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Inter TV" group-title="Olahraga",Inter TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
 #EXTINF:-1 tvg-name="KTV Sport" group-title="Olahraga",KTV Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -673,10 +664,6 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RACER International FAST" group-title="Olahraga",RACER International FAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Racer Select" group-title="Olahraga",Racer Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
@@ -736,10 +723,6 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="Estrella TV" group-title="Hiburan",Estrella TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hi-YAH!" group-title="Hiburan",Hi-YAH!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AMG TV" group-title="Hiburan",AMG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1498,10 +1481,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC 12 Milwaukee WI" group-title="Berita",ABC 12 Milwaukee WI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Euronews Russian" group-title="Berita",Euronews Russian
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
@@ -1513,10 +1492,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-name="Expressen TV" group-title="Berita",Expressen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mr. Bean Anime Spain" group-title="Anak",Mr. Bean Anime Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spacetoon Turkey" group-title="Anak",Spacetoon Turkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
@@ -1569,14 +1544,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 #EXTINF:-1 tvg-name="Wu Tang Collection" group-title="Hiburan",Wu Tang Collection
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
-
-#EXTINF:-1 tvg-name="Zee Cinema" group-title="Hiburan",Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
-#EXTINF:-1 tvg-name="Maverick Black Cinema" group-title="Hiburan",Maverick Black Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cine Nanar" group-title="Hiburan",Cine Nanar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
