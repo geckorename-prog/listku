@@ -246,10 +246,6 @@ https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bungo TV" group-title="TV Indonesia",Bungo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="MQTV" group-title="TV Indonesia",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
