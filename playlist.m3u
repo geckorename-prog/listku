@@ -1607,6 +1607,9 @@ https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playl
 #EXTINF:-1 tvg-name="WION" group-title="Berita",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-name="TRT World" group-title="Berita",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Travel TV" group-title="Hiburan",Travel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
