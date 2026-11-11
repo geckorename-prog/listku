@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Sporty TV" group-title="Olahraga",Sporty TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network India" group-title="Anak",Cartoon Network India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
