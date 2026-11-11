@@ -1576,6 +1576,37 @@ https://voyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Schladming-Dachstein TV" group-title="Berita",Schladming-Dachstein TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" group-title="Berita",ABC News Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" group-title="Berita",Al Jazeera English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC News (HEVC)" group-title="Berita",BBC News (HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" group-title="Berita",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-name="France 24 English" group-title="Berita",France 24 English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LiveNOW from FOX" group-title="Berita",LiveNOW from FOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Scripps News" group-title="Berita",Scripps News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WION" group-title="Berita",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-name="Travel TV" group-title="Hiburan",Travel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16)
